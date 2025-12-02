@@ -39,18 +39,29 @@ graph TD
     Cloud --> K8s[Kubernetes / OpenShift]
     Cloud --> Obs[Observability / OpenTelemetry]
     Cloud --> CICD[CI/CD Pipelines]
-
     %% Styling
     classDef root fill:#fff,stroke:#333,stroke-width:3px,font-size:15px;
     classDef branch fill:#f4f4f4,stroke:#666,stroke-width:1px,font-size:13px;
 ```
-
 ## 🚀 Highlighted Works
 
 - **Open Source AI**: [BERT-based Claim Detection Model](https://huggingface.co/XiaojingEllen/bert-finetuned-claim-detection) (Apache-2.0)
   - *Used and cited by University of British Columbia (UBC) research.*
   - *Hand-written Transformer implementation to verify theoretical engineering consistency.*
 - **FinTech Infrastructure**: Built 0-to-1 digital banking middleware and intelligent insurance claim systems.
+
+## 📑 Daily ArXiv Summary
+<!-- DAILY_ARXIV_SUMMARY_START -->
+**Updated on: 2025-12-02**
+
+1. [Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](http://arxiv.org/abs/2512.02010v1)
+
+2. [The Art of Scaling Test-Time Compute for Large Language Models](http://arxiv.org/abs/2512.02008v1)
+
+3. [AlignSAE: Concept-Aligned Sparse Autoencoders](http://arxiv.org/abs/2512.02004v1)
+
+
+<!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
 <div align="center">
