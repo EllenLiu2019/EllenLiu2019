@@ -1,5 +1,8 @@
 name: Daily ArXiv Paper Tracker
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run daily at 0:00 AM UTC
@@ -15,6 +18,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -35,7 +39,16 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README.md README_CN.md
-        git diff --staged --quiet || git commit -m "Auto-update: Daily ArXiv papers [skip ci]"
-        git push
+
+        git status --porcelain 
+        git add README.md README_CN.md data/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        else
+          git commit -m "Auto-update: Daily ArXiv papers [skip ci]"
+        fi
+        
+        git pull --rebase origin master
+        git push origin master
 
