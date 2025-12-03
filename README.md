@@ -52,15 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-02**
+**Updated on: 2025-12-03**
 
-1. [Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](http://arxiv.org/abs/2512.02010v1)
-
-2. [The Art of Scaling Test-Time Compute for Large Language Models](http://arxiv.org/abs/2512.02008v1)
-
-3. [AlignSAE: Concept-Aligned Sparse Autoencoders](http://arxiv.org/abs/2512.02004v1)
-
-
+ 1. [The Moral Consistency Pipeline: Continuous Ethical Evaluation for Large Language Models](http://arxiv.org/abs/2512.03026v1)
+ 2. [LORE: A Large Generative Model for Search Relevance](http://arxiv.org/abs/2512.03025v1)
+ 3. [Fine-Tuned Large Language Models for Logical Translation: Reducing Hallucinations with Lang2Logic](http://arxiv.org/abs/2512.02987v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
