@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-03**
+**Updated on: 2025-12-04**
 
  1. [The Moral Consistency Pipeline: Continuous Ethical Evaluation for Large Language Models](http://arxiv.org/abs/2512.03026v1)
  2. [LORE: A Large Generative Model for Search Relevance](http://arxiv.org/abs/2512.03025v1)
