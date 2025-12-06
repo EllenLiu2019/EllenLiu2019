@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-05**
+**Updated on: 2025-12-06**
 
-No new papers found today.
+ 1. [Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning](http://arxiv.org/abs/2512.05105v1)
+ 2. [Multi-LLM Collaboration for Medication Recommendation](http://arxiv.org/abs/2512.05066v1)
+ 3. [Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking](http://arxiv.org/abs/2512.05012v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
