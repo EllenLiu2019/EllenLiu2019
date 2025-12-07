@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-06**
+**Updated on: 2025-12-07**
 
  1. [Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning](http://arxiv.org/abs/2512.05105v1)
  2. [Multi-LLM Collaboration for Medication Recommendation](http://arxiv.org/abs/2512.05066v1)
