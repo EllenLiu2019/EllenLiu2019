@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-08**
+**Updated on: 2025-12-09**
 
- 1. [Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning](http://arxiv.org/abs/2512.05105v1)
- 2. [Multi-LLM Collaboration for Medication Recommendation](http://arxiv.org/abs/2512.05066v1)
- 3. [Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking](http://arxiv.org/abs/2512.05012v1)
+ 1. [Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms](http://arxiv.org/abs/2512.05967v1)
+ 2. [M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](http://arxiv.org/abs/2512.05959v1)
+ 3. [Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](http://arxiv.org/abs/2512.05941v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
