@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-09**
+**Updated on: 2025-12-10**
 
- 1. [Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms](http://arxiv.org/abs/2512.05967v1)
- 2. [M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](http://arxiv.org/abs/2512.05959v1)
- 3. [Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](http://arxiv.org/abs/2512.05941v1)
+ 1. [Do Generalisation Results Generalise?](http://arxiv.org/abs/2512.07832v1)
+ 2. [Collaborative Causal Sensemaking: Closing the Complementarity Gap in Human-AI Decision Support](http://arxiv.org/abs/2512.07801v1)
+ 3. [ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning](http://arxiv.org/abs/2512.07795v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
