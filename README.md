@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-10**
+**Updated on: 2025-12-11**
 
- 1. [Do Generalisation Results Generalise?](http://arxiv.org/abs/2512.07832v1)
- 2. [Collaborative Causal Sensemaking: Closing the Complementarity Gap in Human-AI Decision Support](http://arxiv.org/abs/2512.07801v1)
- 3. [ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning](http://arxiv.org/abs/2512.07795v1)
+ 1. [Revisiting the Scaling Properties of Downstream Metrics in Large Language Model Training](http://arxiv.org/abs/2512.08894v1)
+ 2. [Toward Faithful Retrieval-Augmented Generation with Sparse Autoencoders](http://arxiv.org/abs/2512.08892v1)
+ 3. [Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts](http://arxiv.org/abs/2512.08814v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
