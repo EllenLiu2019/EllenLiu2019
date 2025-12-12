@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-11**
+**Updated on: 2025-12-12**
 
- 1. [Revisiting the Scaling Properties of Downstream Metrics in Large Language Model Training](http://arxiv.org/abs/2512.08894v1)
- 2. [Toward Faithful Retrieval-Augmented Generation with Sparse Autoencoders](http://arxiv.org/abs/2512.08892v1)
- 3. [Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts](http://arxiv.org/abs/2512.08814v1)
+ 1. [SCOPE: Language Models as One-Time Teacher for Hierarchical Planning in Text Environments](http://arxiv.org/abs/2512.09897v1)
+ 2. [Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement](http://arxiv.org/abs/2512.09854v1)
+ 3. [LLMs in Interpreting Legal Documents](http://arxiv.org/abs/2512.09830v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
