@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-12**
+**Updated on: 2025-12-13**
 
- 1. [SCOPE: Language Models as One-Time Teacher for Hierarchical Planning in Text Environments](http://arxiv.org/abs/2512.09897v1)
- 2. [Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement](http://arxiv.org/abs/2512.09854v1)
- 3. [LLMs in Interpreting Legal Documents](http://arxiv.org/abs/2512.09830v1)
+ 1. [Asynchronous Reasoning: Training-Free Interactive Thinking LLMs](http://arxiv.org/abs/2512.10931v1)
+ 2. [CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](http://arxiv.org/abs/2512.10918v1)
+ 3. [Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](http://arxiv.org/abs/2512.10882v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
