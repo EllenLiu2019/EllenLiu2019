@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-14**
+**Updated on: 2025-12-15**
 
  1. [Asynchronous Reasoning: Training-Free Interactive Thinking LLMs](http://arxiv.org/abs/2512.10931v1)
  2. [CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](http://arxiv.org/abs/2512.10918v1)
