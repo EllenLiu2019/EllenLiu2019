@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-15**
+**Updated on: 2025-12-16**
 
- 1. [Asynchronous Reasoning: Training-Free Interactive Thinking LLMs](http://arxiv.org/abs/2512.10931v1)
- 2. [CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences](http://arxiv.org/abs/2512.10918v1)
- 3. [Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](http://arxiv.org/abs/2512.10882v1)
+ 1. [SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support](http://arxiv.org/abs/2512.11755v1)
+ 2. [From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](http://arxiv.org/abs/2512.11724v1)
+ 3. [Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks](http://arxiv.org/abs/2512.11718v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
