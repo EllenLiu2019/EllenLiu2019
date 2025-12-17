@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-16**
+**Updated on: 2025-12-17**
 
- 1. [SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support](http://arxiv.org/abs/2512.11755v1)
- 2. [From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](http://arxiv.org/abs/2512.11724v1)
- 3. [Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks](http://arxiv.org/abs/2512.11718v1)
+ 1. [Towards Effective Model Editing for LLM Personalization](http://arxiv.org/abs/2512.13676v1)
+ 2. [Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](http://arxiv.org/abs/2512.13655v1)
+ 3. [Large-Language Memorization During the Classification of United States Supreme Court Cases](http://arxiv.org/abs/2512.13654v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
