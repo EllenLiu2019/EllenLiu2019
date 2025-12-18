@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-17**
+**Updated on: 2025-12-18**
 
- 1. [Towards Effective Model Editing for LLM Personalization](http://arxiv.org/abs/2512.13676v1)
- 2. [Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](http://arxiv.org/abs/2512.13655v1)
- 3. [Large-Language Memorization During the Classification of United States Supreme Court Cases](http://arxiv.org/abs/2512.13654v1)
+ 1. [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](http://arxiv.org/abs/2512.14698v1)
+ 2. [Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization](http://arxiv.org/abs/2512.14687v1)
+ 3. [Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer](http://arxiv.org/abs/2512.14585v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
