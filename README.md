@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-18**
+**Updated on: 2025-12-19**
 
- 1. [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](http://arxiv.org/abs/2512.14698v1)
- 2. [Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization](http://arxiv.org/abs/2512.14687v1)
- 3. [Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer](http://arxiv.org/abs/2512.14585v1)
+ 1. [Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](http://arxiv.org/abs/2512.15712v1)
+ 2. [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](http://arxiv.org/abs/2512.15674v1)
+ 3. [Explaining the Reasoning of Large Language Models Using Attribution Graphs](http://arxiv.org/abs/2512.15663v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
