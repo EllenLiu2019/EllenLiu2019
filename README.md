@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-19**
+**Updated on: 2025-12-20**
 
- 1. [Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](http://arxiv.org/abs/2512.15712v1)
- 2. [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](http://arxiv.org/abs/2512.15674v1)
- 3. [Explaining the Reasoning of Large Language Models Using Attribution Graphs](http://arxiv.org/abs/2512.15663v1)
+ 1. [Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning](http://arxiv.org/abs/2512.16917v1)
+ 2. [Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates](http://arxiv.org/abs/2512.16914v1)
+ 3. [Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward](http://arxiv.org/abs/2512.16912v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
