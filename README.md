@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-20**
+**Updated on: 2025-12-21**
 
  1. [Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning](http://arxiv.org/abs/2512.16917v1)
  2. [Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates](http://arxiv.org/abs/2512.16914v1)
