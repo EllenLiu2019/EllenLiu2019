@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-22**
+**Updated on: 2025-12-23**
 
- 1. [Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning](http://arxiv.org/abs/2512.16917v1)
- 2. [Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates](http://arxiv.org/abs/2512.16914v1)
- 3. [Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward](http://arxiv.org/abs/2512.16912v1)
+ 1. [ShareChat: A Dataset of Chatbot Conversations in the Wild](http://arxiv.org/abs/2512.17843v1)
+ 2. [DEER: A Comprehensive and Reliable Benchmark for Deep-Research Expert Reports](http://arxiv.org/abs/2512.17776v1)
+ 3. [When the Gold Standard isn't Necessarily Standard: Challenges of Evaluating the Translation of User-Generated Content](http://arxiv.org/abs/2512.17738v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
