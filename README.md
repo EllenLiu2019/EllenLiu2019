@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-23**
+**Updated on: 2025-12-24**
 
- 1. [ShareChat: A Dataset of Chatbot Conversations in the Wild](http://arxiv.org/abs/2512.17843v1)
- 2. [DEER: A Comprehensive and Reliable Benchmark for Deep-Research Expert Reports](http://arxiv.org/abs/2512.17776v1)
- 3. [When the Gold Standard isn't Necessarily Standard: Challenges of Evaluating the Translation of User-Generated Content](http://arxiv.org/abs/2512.17738v1)
+ 1. [GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators](http://arxiv.org/abs/2512.19682v1)
+ 2. [Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](http://arxiv.org/abs/2512.19673v1)
+ 3. [Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting](http://arxiv.org/abs/2512.19651v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
