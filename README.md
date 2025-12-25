@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-24**
+**Updated on: 2025-12-25**
 
- 1. [GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators](http://arxiv.org/abs/2512.19682v1)
- 2. [Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](http://arxiv.org/abs/2512.19673v1)
- 3. [Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting](http://arxiv.org/abs/2512.19651v1)
+ 1. [Making Large Language Models Efficient Dense Retrievers](http://arxiv.org/abs/2512.20612v1)
+ 2. [Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent](http://arxiv.org/abs/2512.20586v1)
+ 3. [Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits](http://arxiv.org/abs/2512.20578v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
