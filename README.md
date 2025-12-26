@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-25**
+**Updated on: 2025-12-26**
 
- 1. [Making Large Language Models Efficient Dense Retrievers](http://arxiv.org/abs/2512.20612v1)
- 2. [Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent](http://arxiv.org/abs/2512.20586v1)
- 3. [Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits](http://arxiv.org/abs/2512.20578v1)
+ 1. [C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling](http://arxiv.org/abs/2512.21332v1)
+ 2. [Measuring all the noises of LLM Evals](http://arxiv.org/abs/2512.21326v1)
+ 3. [SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance](http://arxiv.org/abs/2512.21280v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
