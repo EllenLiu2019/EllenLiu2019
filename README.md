@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-28**
+**Updated on: 2025-12-29**
 
  1. [C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling](http://arxiv.org/abs/2512.21332v1)
  2. [Measuring all the noises of LLM Evals](http://arxiv.org/abs/2512.21326v1)
