@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-29**
+**Updated on: 2025-12-30**
 
- 1. [C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling](http://arxiv.org/abs/2512.21332v1)
- 2. [Measuring all the noises of LLM Evals](http://arxiv.org/abs/2512.21326v1)
- 3. [SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance](http://arxiv.org/abs/2512.21280v1)
+ 1. [A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting](http://arxiv.org/abs/2512.22101v1)
+ 2. [Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis](http://arxiv.org/abs/2512.22100v1)
+ 3. [Unifying Learning Dynamics and Generalization in Transformers Scaling Law](http://arxiv.org/abs/2512.22088v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
