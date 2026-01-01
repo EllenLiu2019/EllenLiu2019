@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2025-12-31**
+**Updated on: 2026-01-01**
 
  1. [Eliciting Behaviors in Multi-Turn Conversations](http://arxiv.org/abs/2512.23701v1)
  2. [Fine-Tuning LLMs with Fine-Grained Human Feedback on Text Spans](http://arxiv.org/abs/2512.23693v1)
