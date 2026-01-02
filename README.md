@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-01**
+**Updated on: 2026-01-02**
 
- 1. [Eliciting Behaviors in Multi-Turn Conversations](http://arxiv.org/abs/2512.23701v1)
- 2. [Fine-Tuning LLMs with Fine-Grained Human Feedback on Text Spans](http://arxiv.org/abs/2512.23693v1)
- 3. [Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing](http://arxiv.org/abs/2512.23684v1)
+ 1. [AdaGReS:Adaptive Greedy Context Selection via Redundancy-Aware Scoring for Token-Budgeted RAG](http://arxiv.org/abs/2512.25052v1)
+ 2. [MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes](http://arxiv.org/abs/2512.25015v1)
+ 3. [Large language models and the entropy of English](http://arxiv.org/abs/2512.24969v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
