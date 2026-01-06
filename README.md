@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-05**
+**Updated on: 2026-01-06**
 
- 1. [AdaGReS:Adaptive Greedy Context Selection via Redundancy-Aware Scoring for Token-Budgeted RAG](http://arxiv.org/abs/2512.25052v1)
- 2. [MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes](http://arxiv.org/abs/2512.25015v1)
- 3. [Large language models and the entropy of English](http://arxiv.org/abs/2512.24969v1)
+ 1. [Memory Bank Compression for Continual Adaptation of Large Language Models](http://arxiv.org/abs/2601.00756v1)
+ 2. [Exploring the Performance of Large Language Models on Subjective Span Identification Tasks](http://arxiv.org/abs/2601.00736v1)
+ 3. [Probabilistic Guarantees for Reducing Contextual Hallucinations in LLMs](http://arxiv.org/abs/2601.00641v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
