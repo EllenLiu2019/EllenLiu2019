@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-06**
+**Updated on: 2026-01-07**
 
- 1. [Memory Bank Compression for Continual Adaptation of Large Language Models](http://arxiv.org/abs/2601.00756v1)
- 2. [Exploring the Performance of Large Language Models on Subjective Span Identification Tasks](http://arxiv.org/abs/2601.00736v1)
- 3. [Probabilistic Guarantees for Reducing Contextual Hallucinations in LLMs](http://arxiv.org/abs/2601.00641v1)
+ 1. [Robust Persona-Aware Toxicity Detection with Prompt Optimization and Learned Ensembling](http://arxiv.org/abs/2601.02337v1)
+ 2. [Estimating Text Temperature](http://arxiv.org/abs/2601.02320v1)
+ 3. [Power-of-Two Quantization-Aware-Training (PoT-QAT) in Large Language Models (LLMs)](http://arxiv.org/abs/2601.02298v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
