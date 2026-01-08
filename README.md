@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-07**
+**Updated on: 2026-01-08**
 
- 1. [Robust Persona-Aware Toxicity Detection with Prompt Optimization and Learned Ensembling](http://arxiv.org/abs/2601.02337v1)
- 2. [Estimating Text Temperature](http://arxiv.org/abs/2601.02320v1)
- 3. [Power-of-Two Quantization-Aware-Training (PoT-QAT) in Large Language Models (LLMs)](http://arxiv.org/abs/2601.02298v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
