@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-08**
+**Updated on: 2026-01-09**
 
-No new papers found today.
+ 1. [LLMberjack: Guided Trimming of Debate Trees for Multi-Party Conversation Creation](http://arxiv.org/abs/2601.04135v1)
+ 2. [ContextFocus: Activation Steering for Contextual Faithfulness in Large Language Models](http://arxiv.org/abs/2601.04131v1)
+ 3. [InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](http://arxiv.org/abs/2601.04126v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
