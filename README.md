@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-09**
+**Updated on: 2026-01-10**
 
- 1. [LLMberjack: Guided Trimming of Debate Trees for Multi-Party Conversation Creation](http://arxiv.org/abs/2601.04135v1)
- 2. [ContextFocus: Activation Steering for Contextual Faithfulness in Large Language Models](http://arxiv.org/abs/2601.04131v1)
- 3. [InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](http://arxiv.org/abs/2601.04126v1)
+ 1. [LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation](http://arxiv.org/abs/2601.05192v1)
+ 2. [Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](http://arxiv.org/abs/2601.05184v1)
+ 3. [Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems](http://arxiv.org/abs/2601.05171v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
