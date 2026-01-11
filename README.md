@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-10**
+**Updated on: 2026-01-11**
 
  1. [LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation](http://arxiv.org/abs/2601.05192v1)
  2. [Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](http://arxiv.org/abs/2601.05184v1)
