@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-12**
+**Updated on: 2026-01-13**
 
- 1. [LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation](http://arxiv.org/abs/2601.05192v1)
- 2. [Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](http://arxiv.org/abs/2601.05184v1)
- 3. [Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems](http://arxiv.org/abs/2601.05171v1)
+ 1. [AdaFuse: Adaptive Ensemble Decoding with Test-Time Scaling for LLMs](http://arxiv.org/abs/2601.06022v1)
+ 2. [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](http://arxiv.org/abs/2601.06021v1)
+ 3. [Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks](http://arxiv.org/abs/2601.06007v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
