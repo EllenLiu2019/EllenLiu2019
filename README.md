@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-13**
+**Updated on: 2026-01-14**
 
- 1. [AdaFuse: Adaptive Ensemble Decoding with Test-Time Scaling for LLMs](http://arxiv.org/abs/2601.06022v1)
- 2. [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](http://arxiv.org/abs/2601.06021v1)
- 3. [Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks](http://arxiv.org/abs/2601.06007v1)
+ 1. [The Confidence Trap: Gender Bias and Predictive Certainty in LLMs](http://arxiv.org/abs/2601.07806v1)
+ 2. [Learning Through Dialogue: Unpacking the Dynamics of Human-LLM Conversations on Political Issues](http://arxiv.org/abs/2601.07796v1)
+ 3. [Kinship Data Benchmark for Multi-hop Reasoning](http://arxiv.org/abs/2601.07794v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
