@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-14**
+**Updated on: 2026-01-15**
 
- 1. [The Confidence Trap: Gender Bias and Predictive Certainty in LLMs](http://arxiv.org/abs/2601.07806v1)
- 2. [Learning Through Dialogue: Unpacking the Dynamics of Human-LLM Conversations on Political Issues](http://arxiv.org/abs/2601.07796v1)
- 3. [Kinship Data Benchmark for Multi-hop Reasoning](http://arxiv.org/abs/2601.07794v1)
+ 1. [Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](http://arxiv.org/abs/2601.08829v1)
+ 2. [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](http://arxiv.org/abs/2601.08777v1)
+ 3. [Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](http://arxiv.org/abs/2601.08763v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
