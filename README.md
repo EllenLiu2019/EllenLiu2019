@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-15**
+**Updated on: 2026-01-16**
 
- 1. [Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](http://arxiv.org/abs/2601.08829v1)
- 2. [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](http://arxiv.org/abs/2601.08777v1)
- 3. [Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](http://arxiv.org/abs/2601.08763v1)
+ 1. [ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](http://arxiv.org/abs/2601.09703v1)
+ 2. [Empathy Applicability Modeling for General Health Queries](http://arxiv.org/abs/2601.09696v1)
+ 3. [LLMs can Compress LLMs: Adaptive Pruning by Agents](http://arxiv.org/abs/2601.09694v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
