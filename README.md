@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-16**
+**Updated on: 2026-01-17**
 
- 1. [ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](http://arxiv.org/abs/2601.09703v1)
- 2. [Empathy Applicability Modeling for General Health Queries](http://arxiv.org/abs/2601.09696v1)
- 3. [LLMs can Compress LLMs: Adaptive Pruning by Agents](http://arxiv.org/abs/2601.09694v1)
+ 1. [MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](http://arxiv.org/abs/2601.10712v1)
+ 2. [Grounding Agent Memory in Contextual Intent](http://arxiv.org/abs/2601.10702v1)
+ 3. [LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals](http://arxiv.org/abs/2601.10700v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
