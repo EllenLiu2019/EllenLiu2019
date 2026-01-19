@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-18**
+**Updated on: 2026-01-19**
 
  1. [MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](http://arxiv.org/abs/2601.10712v1)
  2. [Grounding Agent Memory in Contextual Intent](http://arxiv.org/abs/2601.10702v1)
