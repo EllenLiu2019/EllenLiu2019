@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-19**
+**Updated on: 2026-01-20**
 
- 1. [MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](http://arxiv.org/abs/2601.10712v1)
- 2. [Grounding Agent Memory in Contextual Intent](http://arxiv.org/abs/2601.10702v1)
- 3. [LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals](http://arxiv.org/abs/2601.10700v1)
+ 1. [How Long Is a Piece of String? A Brief Empirical Analysis of Tokenizers](http://arxiv.org/abs/2601.11518v1)
+ 2. [The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents](http://arxiv.org/abs/2601.11496v1)
+ 3. [CTest-Metric: A Unified Framework to Assess Clinical Validity of Metrics for CT Report Generation](http://arxiv.org/abs/2601.11488v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
