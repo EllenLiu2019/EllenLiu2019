@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-20**
+**Updated on: 2026-01-21**
 
  1. [How Long Is a Piece of String? A Brief Empirical Analysis of Tokenizers](http://arxiv.org/abs/2601.11518v1)
  2. [The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents](http://arxiv.org/abs/2601.11496v1)
