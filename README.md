@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-21**
+**Updated on: 2026-01-22**
 
- 1. [How Long Is a Piece of String? A Brief Empirical Analysis of Tokenizers](http://arxiv.org/abs/2601.11518v1)
- 2. [The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents](http://arxiv.org/abs/2601.11496v1)
- 3. [CTest-Metric: A Unified Framework to Assess Clinical Validity of Metrics for CT Report Generation](http://arxiv.org/abs/2601.11488v1)
+ 1. [Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](http://arxiv.org/abs/2601.14249v1)
+ 2. [Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow](http://arxiv.org/abs/2601.14243v1)
+ 3. [APEX-Agents](http://arxiv.org/abs/2601.14242v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
