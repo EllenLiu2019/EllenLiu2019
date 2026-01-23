@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-22**
+**Updated on: 2026-01-23**
 
- 1. [Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](http://arxiv.org/abs/2601.14249v1)
- 2. [Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow](http://arxiv.org/abs/2601.14243v1)
- 3. [APEX-Agents](http://arxiv.org/abs/2601.14242v1)
+ 1. [Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks](http://arxiv.org/abs/2601.15277v1)
+ 2. [Evaluation of Large Language Models in Legal Applications: Challenges, Methods, and Future Directions](http://arxiv.org/abs/2601.15267v1)
+ 3. [The Effect of Scripts and Formats on LLM Numeracy](http://arxiv.org/abs/2601.15251v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
