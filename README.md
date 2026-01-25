@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-24**
+**Updated on: 2026-01-25**
 
  1. [LLM-in-Sandbox Elicits General Agentic Intelligence](http://arxiv.org/abs/2601.16206v1)
  2. [LLM Prompt Evaluation for Educational Applications](http://arxiv.org/abs/2601.16134v1)
