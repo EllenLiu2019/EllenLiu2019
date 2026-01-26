@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-25**
+**Updated on: 2026-01-26**
 
- 1. [LLM-in-Sandbox Elicits General Agentic Intelligence](http://arxiv.org/abs/2601.16206v1)
- 2. [LLM Prompt Evaluation for Educational Applications](http://arxiv.org/abs/2601.16134v1)
- 3. [Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](http://arxiv.org/abs/2601.16127v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
