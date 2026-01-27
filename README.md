@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-26**
+**Updated on: 2026-01-27**
 
-No new papers found today.
+ 1. [Strategies for Span Labeling with Large Language Models](http://arxiv.org/abs/2601.16946v1)
+ 2. [LLM-Based Adversarial Persuasion Attacks on Fact-Checking Systems](http://arxiv.org/abs/2601.16890v1)
+ 3. [Reasoning Promotes Robustness in Theory of Mind Tasks](http://arxiv.org/abs/2601.16853v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
