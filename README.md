@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-28**
+**Updated on: 2026-01-29**
 
- 1. [Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](http://arxiv.org/abs/2601.18795v1)
- 2. [Unsupervised Text Segmentation via Kernel Change-Point Detection on Sentence Embeddings](http://arxiv.org/abs/2601.18788v1)
- 3. [Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System](http://arxiv.org/abs/2601.18785v1)
+ 1. [Evaluation of Oncotimia: An LLM based system for supporting tumour boards](http://arxiv.org/abs/2601.19899v1)
+ 2. [Post-LayerNorm Is Back: Stable, ExpressivE, and Deep](http://arxiv.org/abs/2601.19895v1)
+ 3. [Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering](http://arxiv.org/abs/2601.19847v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
