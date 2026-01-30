@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-29**
+**Updated on: 2026-01-30**
 
- 1. [Evaluation of Oncotimia: An LLM based system for supporting tumour boards](http://arxiv.org/abs/2601.19899v1)
- 2. [Post-LayerNorm Is Back: Stable, ExpressivE, and Deep](http://arxiv.org/abs/2601.19895v1)
- 3. [Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering](http://arxiv.org/abs/2601.19847v1)
+ 1. [Evolutionary Strategies lead to Catastrophic Forgetting in LLMs](http://arxiv.org/abs/2601.20861v1)
+ 2. [When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](http://arxiv.org/abs/2601.20858v1)
+ 3. [Reward Models Inherit Value Biases from Pretraining](http://arxiv.org/abs/2601.20838v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
