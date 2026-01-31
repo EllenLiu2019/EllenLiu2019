@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-01-30**
+**Updated on: 2026-01-31**
 
- 1. [Evolutionary Strategies lead to Catastrophic Forgetting in LLMs](http://arxiv.org/abs/2601.20861v1)
- 2. [When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](http://arxiv.org/abs/2601.20858v1)
- 3. [Reward Models Inherit Value Biases from Pretraining](http://arxiv.org/abs/2601.20838v1)
+ 1. [RedSage: A Cybersecurity Generalist LLM](http://arxiv.org/abs/2601.22159v1)
+ 2. [UEval: A Benchmark for Unified Multimodal Generation](http://arxiv.org/abs/2601.22155v1)
+ 3. [Exploring Reasoning Reward Model for Agents](http://arxiv.org/abs/2601.22154v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
