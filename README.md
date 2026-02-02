@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-01**
+**Updated on: 2026-02-02**
 
  1. [RedSage: A Cybersecurity Generalist LLM](http://arxiv.org/abs/2601.22159v1)
  2. [UEval: A Benchmark for Unified Multimodal Generation](http://arxiv.org/abs/2601.22155v1)
