@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-02**
+**Updated on: 2026-02-03**
 
- 1. [RedSage: A Cybersecurity Generalist LLM](http://arxiv.org/abs/2601.22159v1)
- 2. [UEval: A Benchmark for Unified Multimodal Generation](http://arxiv.org/abs/2601.22155v1)
- 3. [Exploring Reasoning Reward Model for Agents](http://arxiv.org/abs/2601.22154v1)
+ 1. [UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection](http://arxiv.org/abs/2601.23273v1)
+ 2. [PaperBanana: Automating Academic Illustration for AI Scientists](http://arxiv.org/abs/2601.23265v1)
+ 3. [Scaling Multiagent Systems with Process Rewards](http://arxiv.org/abs/2601.23228v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
