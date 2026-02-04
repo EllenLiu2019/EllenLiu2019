@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-03**
+**Updated on: 2026-02-04**
 
- 1. [UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection](http://arxiv.org/abs/2601.23273v1)
- 2. [PaperBanana: Automating Academic Illustration for AI Scientists](http://arxiv.org/abs/2601.23265v1)
- 3. [Scaling Multiagent Systems with Process Rewards](http://arxiv.org/abs/2601.23228v1)
+ 1. [Reward-free Alignment for Conflicting Objectives](http://arxiv.org/abs/2602.02495v1)
+ 2. [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](http://arxiv.org/abs/2602.02488v1)
+ 3. [RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents](http://arxiv.org/abs/2602.02486v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
