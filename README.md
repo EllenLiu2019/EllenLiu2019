@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-04**
+**Updated on: 2026-02-05**
 
- 1. [Reward-free Alignment for Conflicting Objectives](http://arxiv.org/abs/2602.02495v1)
- 2. [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](http://arxiv.org/abs/2602.02488v1)
- 3. [RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents](http://arxiv.org/abs/2602.02486v1)
+ 1. [Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](http://arxiv.org/abs/2602.03837v1)
+ 2. [AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](http://arxiv.org/abs/2602.03828v1)
+ 3. [Antidistillation Fingerprinting](http://arxiv.org/abs/2602.03812v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
