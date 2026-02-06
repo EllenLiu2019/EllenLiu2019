@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-05**
+**Updated on: 2026-02-06**
 
- 1. [Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](http://arxiv.org/abs/2602.03837v1)
- 2. [AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](http://arxiv.org/abs/2602.03828v1)
- 3. [Antidistillation Fingerprinting](http://arxiv.org/abs/2602.03812v1)
+ 1. [Reinforced Attention Learning](http://arxiv.org/abs/2602.04884v1)
+ 2. [Rethinking the Trust Region in LLM Reinforcement Learning](http://arxiv.org/abs/2602.04879v1)
+ 3. [Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](http://arxiv.org/abs/2602.04863v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
