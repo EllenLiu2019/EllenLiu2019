@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-06**
+**Updated on: 2026-02-07**
 
- 1. [Reinforced Attention Learning](http://arxiv.org/abs/2602.04884v1)
- 2. [Rethinking the Trust Region in LLM Reinforcement Learning](http://arxiv.org/abs/2602.04879v1)
- 3. [Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](http://arxiv.org/abs/2602.04863v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
