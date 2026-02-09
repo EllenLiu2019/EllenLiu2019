@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-08**
+**Updated on: 2026-02-09**
 
-No new papers found today.
+ 1. [DFlash: Block Diffusion for Flash Speculative Decoding](http://arxiv.org/abs/2602.06036v1)
+ 2. [Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](http://arxiv.org/abs/2602.06025v1)
+ 3. [A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies](http://arxiv.org/abs/2602.06015v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
