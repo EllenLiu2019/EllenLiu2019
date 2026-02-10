@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-09**
+**Updated on: 2026-02-10**
 
- 1. [DFlash: Block Diffusion for Flash Speculative Decoding](http://arxiv.org/abs/2602.06036v1)
- 2. [Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](http://arxiv.org/abs/2602.06025v1)
- 3. [A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies](http://arxiv.org/abs/2602.06015v1)
+ 1. [Learning a Generative Meta-Model of LLM Activations](http://arxiv.org/abs/2602.06964v1)
+ 2. [DAWN: Dependency-Aware Fast Inference for Diffusion LLMs](http://arxiv.org/abs/2602.06953v1)
+ 3. [Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs](http://arxiv.org/abs/2602.06920v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
