@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-10**
+**Updated on: 2026-02-11**
 
- 1. [Learning a Generative Meta-Model of LLM Activations](http://arxiv.org/abs/2602.06964v1)
- 2. [DAWN: Dependency-Aware Fast Inference for Diffusion LLMs](http://arxiv.org/abs/2602.06953v1)
- 3. [Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs](http://arxiv.org/abs/2602.06920v1)
+ 1. [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](http://arxiv.org/abs/2602.09012v1)
+ 2. [Data Science and Technology Towards AGI Part I: Tiered Data Management](http://arxiv.org/abs/2602.09003v1)
+ 3. [Paradox of De-identification: A Critique of HIPAA Safe Harbour in the Age of LLMs](http://arxiv.org/abs/2602.08997v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
