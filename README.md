@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-11**
+**Updated on: 2026-02-12**
 
- 1. [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](http://arxiv.org/abs/2602.09012v1)
- 2. [Data Science and Technology Towards AGI Part I: Tiered Data Management](http://arxiv.org/abs/2602.09003v1)
- 3. [Paradox of De-identification: A Critique of HIPAA Safe Harbour in the Age of LLMs](http://arxiv.org/abs/2602.08997v1)
+ 1. [Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing](http://arxiv.org/abs/2602.10092v1)
+ 2. [Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](http://arxiv.org/abs/2602.10090v1)
+ 3. [Anagent For Enhancing Scientific Table & Figure Analysis](http://arxiv.org/abs/2602.10081v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
