@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-12**
+**Updated on: 2026-02-13**
 
- 1. [Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing](http://arxiv.org/abs/2602.10092v1)
- 2. [Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](http://arxiv.org/abs/2602.10090v1)
- 3. [Anagent For Enhancing Scientific Table & Figure Analysis](http://arxiv.org/abs/2602.10081v1)
+ 1. [Weight Decay Improves Language Model Plasticity](http://arxiv.org/abs/2602.11137v1)
+ 2. [GameDevBench: Evaluating Agentic Capabilities Through Game Development](http://arxiv.org/abs/2602.11103v1)
+ 3. [Can Large Language Models Make Everyone Happy?](http://arxiv.org/abs/2602.11091v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
