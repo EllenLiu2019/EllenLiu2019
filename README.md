@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-13**
+**Updated on: 2026-02-14**
 
- 1. [Weight Decay Improves Language Model Plasticity](http://arxiv.org/abs/2602.11137v1)
- 2. [GameDevBench: Evaluating Agentic Capabilities Through Game Development](http://arxiv.org/abs/2602.11103v1)
- 3. [Can Large Language Models Make Everyone Happy?](http://arxiv.org/abs/2602.11091v1)
+ 1. [Agentic Test-Time Scaling for WebAgents](http://arxiv.org/abs/2602.12276v1)
+ 2. [Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation](http://arxiv.org/abs/2602.12235v1)
+ 3. [Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education](http://arxiv.org/abs/2602.12196v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
