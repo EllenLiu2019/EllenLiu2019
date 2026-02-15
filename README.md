@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-14**
+**Updated on: 2026-02-15**
 
  1. [Agentic Test-Time Scaling for WebAgents](http://arxiv.org/abs/2602.12276v1)
  2. [Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation](http://arxiv.org/abs/2602.12235v1)
