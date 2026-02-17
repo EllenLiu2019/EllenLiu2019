@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-16**
+**Updated on: 2026-02-17**
 
- 1. [Agentic Test-Time Scaling for WebAgents](http://arxiv.org/abs/2602.12276v1)
- 2. [Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation](http://arxiv.org/abs/2602.12235v1)
- 3. [Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education](http://arxiv.org/abs/2602.12196v1)
+ 1. [Semantic Chunking and the Entropy of Natural Language](http://arxiv.org/abs/2602.13194v1)
+ 2. [Quantization-Robust LLM Unlearning via Low-Rank Adaptation](http://arxiv.org/abs/2602.13151v1)
+ 3. [SCOPE: Selective Conformal Optimized Pairwise LLM Judging](http://arxiv.org/abs/2602.13110v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
