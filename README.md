@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-17**
+**Updated on: 2026-02-18**
 
- 1. [Semantic Chunking and the Entropy of Natural Language](http://arxiv.org/abs/2602.13194v1)
- 2. [Quantization-Robust LLM Unlearning via Low-Rank Adaptation](http://arxiv.org/abs/2602.13151v1)
- 3. [SCOPE: Selective Conformal Optimized Pairwise LLM Judging](http://arxiv.org/abs/2602.13110v1)
+ 1. [Symmetry in language statistics shapes the geometry of model representations](http://arxiv.org/abs/2602.15029v1)
+ 2. [Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](http://arxiv.org/abs/2602.15013v1)
+ 3. [Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System](http://arxiv.org/abs/2602.14970v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
