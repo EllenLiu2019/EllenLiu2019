@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-18**
+**Updated on: 2026-02-19**
 
- 1. [Symmetry in language statistics shapes the geometry of model representations](http://arxiv.org/abs/2602.15029v1)
- 2. [Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](http://arxiv.org/abs/2602.15013v1)
- 3. [Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System](http://arxiv.org/abs/2602.14970v1)
+ 1. [Enhancing Building Semantics Preservation in AI Model Training with Large Language Model Encodings](http://arxiv.org/abs/2602.15791v1)
+ 2. [*-PLUIE: Personalisable metric with Llm Used for Improved Evaluation](http://arxiv.org/abs/2602.15778v1)
+ 3. [GLM-5: from Vibe Coding to Agentic Engineering](http://arxiv.org/abs/2602.15763v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
