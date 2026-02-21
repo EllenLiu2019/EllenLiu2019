@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-20**
+**Updated on: 2026-02-21**
 
-No new papers found today.
+ 1. [Sink-Aware Pruning for Diffusion Language Models](http://arxiv.org/abs/2602.17664v1)
+ 2. [Unmasking the Factual-Conceptual Gap in Persian Language Models](http://arxiv.org/abs/2602.17623v1)
+ 3. [The Cascade Equivalence Hypothesis: When Do Speech LLMs Behave Like ASR$\rightarrow$LLM Pipelines?](http://arxiv.org/abs/2602.17598v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
