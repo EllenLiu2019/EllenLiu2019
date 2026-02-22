@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-21**
+**Updated on: 2026-02-22**
 
  1. [Sink-Aware Pruning for Diffusion Language Models](http://arxiv.org/abs/2602.17664v1)
  2. [Unmasking the Factual-Conceptual Gap in Persian Language Models](http://arxiv.org/abs/2602.17623v1)
