@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-23**
+**Updated on: 2026-02-24**
 
- 1. [Sink-Aware Pruning for Diffusion Language Models](http://arxiv.org/abs/2602.17664v1)
- 2. [Unmasking the Factual-Conceptual Gap in Persian Language Models](http://arxiv.org/abs/2602.17623v1)
- 3. [The Cascade Equivalence Hypothesis: When Do Speech LLMs Behave Like ASR$\rightarrow$LLM Pipelines?](http://arxiv.org/abs/2602.17598v1)
+ 1. [VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning](http://arxiv.org/abs/2602.18429v1)
+ 2. [RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering](http://arxiv.org/abs/2602.18425v1)
+ 3. [SPQ: An Ensemble Technique for Large Language Model Compression](http://arxiv.org/abs/2602.18420v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
