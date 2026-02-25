@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-24**
+**Updated on: 2026-02-25**
 
- 1. [VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning](http://arxiv.org/abs/2602.18429v1)
- 2. [RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering](http://arxiv.org/abs/2602.18425v1)
- 3. [SPQ: An Ensemble Technique for Large Language Model Compression](http://arxiv.org/abs/2602.18420v1)
+ 1. [KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration](http://arxiv.org/abs/2602.20135v1)
+ 2. [AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization](http://arxiv.org/abs/2602.20133v1)
+ 3. [To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering](http://arxiv.org/abs/2602.20130v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
