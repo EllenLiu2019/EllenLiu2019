@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-25**
+**Updated on: 2026-02-26**
 
- 1. [KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration](http://arxiv.org/abs/2602.20135v1)
- 2. [AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization](http://arxiv.org/abs/2602.20133v1)
- 3. [To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering](http://arxiv.org/abs/2602.20130v1)
+ 1. [Aletheia tackles FirstProof autonomously](http://arxiv.org/abs/2602.21201v1)
+ 2. [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](http://arxiv.org/abs/2602.21198v1)
+ 3. [On Data Engineering for Scaling LLM Terminal Capabilities](http://arxiv.org/abs/2602.21193v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
