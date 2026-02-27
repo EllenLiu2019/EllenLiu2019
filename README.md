@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-26**
+**Updated on: 2026-02-27**
 
- 1. [Aletheia tackles FirstProof autonomously](http://arxiv.org/abs/2602.21201v1)
- 2. [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](http://arxiv.org/abs/2602.21198v1)
- 3. [On Data Engineering for Scaling LLM Terminal Capabilities](http://arxiv.org/abs/2602.21193v1)
+ 1. [Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets](http://arxiv.org/abs/2602.22207v1)
+ 2. [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](http://arxiv.org/abs/2602.22190v1)
+ 3. [Dynamic Personality Adaptation in Large Language Models via State Machines](http://arxiv.org/abs/2602.22157v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
