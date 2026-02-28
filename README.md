@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-02-27**
+**Updated on: 2026-02-28**
 
- 1. [Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets](http://arxiv.org/abs/2602.22207v1)
- 2. [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](http://arxiv.org/abs/2602.22190v1)
- 3. [Dynamic Personality Adaptation in Large Language Models via State Machines](http://arxiv.org/abs/2602.22157v1)
+ 1. [LLM Novice Uplift on Dual-Use, In Silico Biology Tasks](http://arxiv.org/abs/2602.23329v1)
+ 2. [A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](http://arxiv.org/abs/2602.23300v1)
+ 3. [Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems](http://arxiv.org/abs/2602.23266v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
