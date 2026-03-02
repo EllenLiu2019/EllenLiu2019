@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-01**
+**Updated on: 2026-03-02**
 
  1. [LLM Novice Uplift on Dual-Use, In Silico Biology Tasks](http://arxiv.org/abs/2602.23329v1)
  2. [A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](http://arxiv.org/abs/2602.23300v1)
