@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-02**
+**Updated on: 2026-03-03**
 
- 1. [LLM Novice Uplift on Dual-Use, In Silico Biology Tasks](http://arxiv.org/abs/2602.23329v1)
- 2. [A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations](http://arxiv.org/abs/2602.23300v1)
- 3. [Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems](http://arxiv.org/abs/2602.23266v1)
+ 1. [DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](http://arxiv.org/abs/2602.24288v1)
+ 2. [Do LLMs Benefit From Their Own Words?](http://arxiv.org/abs/2602.24287v1)
+ 3. [Controllable Reasoning Models Are Private Thinkers](http://arxiv.org/abs/2602.24210v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
