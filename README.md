@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-03**
+**Updated on: 2026-03-04**
 
- 1. [DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](http://arxiv.org/abs/2602.24288v1)
- 2. [Do LLMs Benefit From Their Own Words?](http://arxiv.org/abs/2602.24287v1)
- 3. [Controllable Reasoning Models Are Private Thinkers](http://arxiv.org/abs/2602.24210v1)
+ 1. [Organizing, Orchestrating, and Benchmarking Agent Skills at Ecosystem Scale](http://arxiv.org/abs/2603.02176v1)
+ 2. [Scaling Retrieval Augmented Generation with RAG Fusion: Lessons from an Industry Deployment](http://arxiv.org/abs/2603.02153v1)
+ 3. [LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards](http://arxiv.org/abs/2603.02146v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
