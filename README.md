@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-04**
+**Updated on: 2026-03-05**
 
- 1. [Organizing, Orchestrating, and Benchmarking Agent Skills at Ecosystem Scale](http://arxiv.org/abs/2603.02176v1)
- 2. [Scaling Retrieval Augmented Generation with RAG Fusion: Lessons from an Industry Deployment](http://arxiv.org/abs/2603.02153v1)
- 3. [LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards](http://arxiv.org/abs/2603.02146v1)
+ 1. [Understanding and Mitigating Dataset Corruption in LLM Steering](http://arxiv.org/abs/2603.03206v1)
+ 2. [Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](http://arxiv.org/abs/2603.03205v1)
+ 3. [Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?](http://arxiv.org/abs/2603.03202v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
