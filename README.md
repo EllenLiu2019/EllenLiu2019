@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-05**
+**Updated on: 2026-03-06**
 
- 1. [Understanding and Mitigating Dataset Corruption in LLM Steering](http://arxiv.org/abs/2603.03206v1)
- 2. [Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](http://arxiv.org/abs/2603.03205v1)
- 3. [Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?](http://arxiv.org/abs/2603.03202v1)
+ 1. [AgentIR: Reasoning-Aware Retrival for Deep Research Agents](http://arxiv.org/abs/2603.04384v1)
+ 2. [$τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge](http://arxiv.org/abs/2603.04370v1)
+ 3. [Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks](http://arxiv.org/abs/2603.04364v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
