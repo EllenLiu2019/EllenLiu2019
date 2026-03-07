@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-06**
+**Updated on: 2026-03-07**
 
- 1. [AgentIR: Reasoning-Aware Retrival for Deep Research Agents](http://arxiv.org/abs/2603.04384v1)
- 2. [$τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge](http://arxiv.org/abs/2603.04370v1)
- 3. [Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks](http://arxiv.org/abs/2603.04364v1)
+ 1. [POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](http://arxiv.org/abs/2603.05500v1)
+ 2. [Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation](http://arxiv.org/abs/2603.05494v1)
+ 3. [Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval](http://arxiv.org/abs/2603.05471v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
