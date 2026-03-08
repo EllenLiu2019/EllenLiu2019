@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-07**
+**Updated on: 2026-03-08**
 
  1. [POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](http://arxiv.org/abs/2603.05500v1)
  2. [Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation](http://arxiv.org/abs/2603.05494v1)
