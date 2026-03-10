@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-09**
+**Updated on: 2026-03-10**
 
- 1. [POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](http://arxiv.org/abs/2603.05500v1)
- 2. [Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation](http://arxiv.org/abs/2603.05494v1)
- 3. [Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval](http://arxiv.org/abs/2603.05471v1)
+ 1. [Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing](http://arxiv.org/abs/2603.06503v1)
+ 2. [COLD-Steer: Steering Large Language Models via In-Context One-step Learning Dynamics](http://arxiv.org/abs/2603.06495v1)
+ 3. [NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches](http://arxiv.org/abs/2603.06492v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
