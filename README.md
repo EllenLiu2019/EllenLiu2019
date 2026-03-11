@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-10**
+**Updated on: 2026-03-11**
 
- 1. [Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing](http://arxiv.org/abs/2603.06503v1)
- 2. [COLD-Steer: Steering Large Language Models via In-Context One-step Learning Dynamics](http://arxiv.org/abs/2603.06495v1)
- 3. [NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches](http://arxiv.org/abs/2603.06492v1)
+ 1. [Agentic Critical Training](http://arxiv.org/abs/2603.08706v1)
+ 2. [How Far Can Unsupervised RLVR Scale LLM Training?](http://arxiv.org/abs/2603.08660v1)
+ 3. [OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning](http://arxiv.org/abs/2603.08655v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
