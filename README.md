@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-11**
+**Updated on: 2026-03-12**
 
- 1. [Agentic Critical Training](http://arxiv.org/abs/2603.08706v1)
- 2. [How Far Can Unsupervised RLVR Scale LLM Training?](http://arxiv.org/abs/2603.08660v1)
- 3. [OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning](http://arxiv.org/abs/2603.08655v1)
+ 1. [CREATE: Testing LLMs for Associative Creativity](http://arxiv.org/abs/2603.09970v1)
+ 2. [Think Before You Lie: How Reasoning Improves Honesty](http://arxiv.org/abs/2603.09957v1)
+ 3. [Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions](http://arxiv.org/abs/2603.09938v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
