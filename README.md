@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-12**
+**Updated on: 2026-03-13**
 
- 1. [CREATE: Testing LLMs for Associative Creativity](http://arxiv.org/abs/2603.09970v1)
- 2. [Think Before You Lie: How Reasoning Improves Honesty](http://arxiv.org/abs/2603.09957v1)
- 3. [Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions](http://arxiv.org/abs/2603.09938v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
