@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-13**
+**Updated on: 2026-03-14**
 
-No new papers found today.
+ 1. [Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](http://arxiv.org/abs/2603.12246v1)
+ 2. [Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration](http://arxiv.org/abs/2603.12226v1)
+ 3. [CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks](http://arxiv.org/abs/2603.12206v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
