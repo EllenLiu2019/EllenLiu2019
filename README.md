@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-14**
+**Updated on: 2026-03-15**
 
  1. [Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](http://arxiv.org/abs/2603.12246v1)
  2. [Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration](http://arxiv.org/abs/2603.12226v1)
