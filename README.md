@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-16**
+**Updated on: 2026-03-17**
 
- 1. [Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](http://arxiv.org/abs/2603.12246v1)
- 2. [Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration](http://arxiv.org/abs/2603.12226v1)
- 3. [CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks](http://arxiv.org/abs/2603.12206v1)
+ 1. [Neuron-Aware Data Selection In Instruction Tuning For Large Language Models](http://arxiv.org/abs/2603.13201v1)
+ 2. [Semantic Invariance in Agentic AI](http://arxiv.org/abs/2603.13173v1)
+ 3. [Developing and evaluating a chatbot to support maternal health care](http://arxiv.org/abs/2603.13168v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
