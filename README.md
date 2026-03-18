@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-17**
+**Updated on: 2026-03-18**
 
- 1. [Neuron-Aware Data Selection In Instruction Tuning For Large Language Models](http://arxiv.org/abs/2603.13201v1)
- 2. [Semantic Invariance in Agentic AI](http://arxiv.org/abs/2603.13173v1)
- 3. [Developing and evaluating a chatbot to support maternal health care](http://arxiv.org/abs/2603.13168v1)
+ 1. [Mixture-of-Depths Attention](http://arxiv.org/abs/2603.15619v1)
+ 2. [Mechanistic Origin of Moral Indifference in Language Models](http://arxiv.org/abs/2603.15615v1)
+ 3. [Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning](http://arxiv.org/abs/2603.15611v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
