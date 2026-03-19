@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-18**
+**Updated on: 2026-03-19**
 
- 1. [Mixture-of-Depths Attention](http://arxiv.org/abs/2603.15619v1)
- 2. [Mechanistic Origin of Moral Indifference in Language Models](http://arxiv.org/abs/2603.15615v1)
- 3. [Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning](http://arxiv.org/abs/2603.15611v1)
+ 1. [Efficient Reasoning on the Edge](http://arxiv.org/abs/2603.16867v1)
+ 2. [Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory](http://arxiv.org/abs/2603.16862v1)
+ 3. [Mediocrity is the key for LLM as a Judge Anchor Selection](http://arxiv.org/abs/2603.16848v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
