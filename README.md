@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-19**
+**Updated on: 2026-03-20**
 
- 1. [Efficient Reasoning on the Edge](http://arxiv.org/abs/2603.16867v1)
- 2. [Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory](http://arxiv.org/abs/2603.16862v1)
- 3. [Mediocrity is the key for LLM as a Judge Anchor Selection](http://arxiv.org/abs/2603.16848v1)
+ 1. [ConGA: Guidelines for Contextual Gender Annotation. A Framework for Annotating Gender in Machine Translation](http://arxiv.org/abs/2603.17962v1)
+ 2. [Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing](http://arxiv.org/abs/2603.17942v1)
+ 3. [Only relative ranks matter in weight-clustered large language models](http://arxiv.org/abs/2603.17917v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
