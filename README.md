@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-20**
+**Updated on: 2026-03-21**
 
- 1. [ConGA: Guidelines for Contextual Gender Annotation. A Framework for Annotating Gender in Machine Translation](http://arxiv.org/abs/2603.17962v1)
- 2. [Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing](http://arxiv.org/abs/2603.17942v1)
- 3. [Only relative ranks matter in weight-clustered large language models](http://arxiv.org/abs/2603.17917v1)
+ 1. [FinTradeBench: A Financial Reasoning Benchmark for LLMs](http://arxiv.org/abs/2603.19225v1)
+ 2. [F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](http://arxiv.org/abs/2603.19223v1)
+ 3. [Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](http://arxiv.org/abs/2603.19220v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
