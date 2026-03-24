@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-23**
+**Updated on: 2026-03-24**
 
- 1. [FinTradeBench: A Financial Reasoning Benchmark for LLMs](http://arxiv.org/abs/2603.19225v1)
- 2. [F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](http://arxiv.org/abs/2603.19223v1)
- 3. [Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](http://arxiv.org/abs/2603.19220v1)
+ 1. [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](http://arxiv.org/abs/2603.20185v1)
+ 2. [Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](http://arxiv.org/abs/2603.20172v1)
+ 3. [Semantic Token Clustering for Efficient Uncertainty Quantification in Large Language Models](http://arxiv.org/abs/2603.20161v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
