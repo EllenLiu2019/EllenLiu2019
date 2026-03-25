@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-24**
+**Updated on: 2026-03-25**
 
- 1. [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](http://arxiv.org/abs/2603.20185v1)
- 2. [Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation](http://arxiv.org/abs/2603.20172v1)
- 3. [Semantic Token Clustering for Efficient Uncertainty Quantification in Large Language Models](http://arxiv.org/abs/2603.20161v1)
+ 1. [TiCo: Time-Controllable Training for Spoken Dialogue Models](http://arxiv.org/abs/2603.22267v1)
+ 2. [Greater accessibility can amplify discrimination in generative AI](http://arxiv.org/abs/2603.22260v1)
+ 3. [SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection](http://arxiv.org/abs/2603.22213v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
