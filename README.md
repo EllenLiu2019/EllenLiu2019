@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-25**
+**Updated on: 2026-03-26**
 
- 1. [TiCo: Time-Controllable Training for Spoken Dialogue Models](http://arxiv.org/abs/2603.22267v1)
- 2. [Greater accessibility can amplify discrimination in generative AI](http://arxiv.org/abs/2603.22260v1)
- 3. [SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection](http://arxiv.org/abs/2603.22213v1)
+ 1. [Failure of contextual invariance in gender inference with large language models](http://arxiv.org/abs/2603.23485v1)
+ 2. [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](http://arxiv.org/abs/2603.23483v1)
+ 3. [Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies](http://arxiv.org/abs/2603.23406v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
