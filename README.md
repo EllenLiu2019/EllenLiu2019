@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-26**
+**Updated on: 2026-03-27**
 
- 1. [Failure of contextual invariance in gender inference with large language models](http://arxiv.org/abs/2603.23485v1)
- 2. [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](http://arxiv.org/abs/2603.23483v1)
- 3. [Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies](http://arxiv.org/abs/2603.23406v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
