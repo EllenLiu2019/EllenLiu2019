@@ -53,7 +53,7 @@ graph TD
 
 ## 📑 每日论文速递 (ArXiv)
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**更新日期: 2026-03-29**
+**更新日期: 2026-03-30**
 
 今日未发现新论文。
 <!-- DAILY_ARXIV_SUMMARY_END -->
