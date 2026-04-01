@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-03-31**
+**Updated on: 2026-04-01**
 
 No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
