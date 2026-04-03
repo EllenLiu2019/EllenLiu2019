@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-02**
+**Updated on: 2026-04-03**
 
- 1. [Reward-Based Online LLM Routing via NeuralUCB](http://arxiv.org/abs/2603.30035v1)
- 2. [Enhancing Structural Mapping with LLM-derived Abstractions for Analogical Reasoning in Narratives](http://arxiv.org/abs/2603.29997v1)
- 3. [Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior](http://arxiv.org/abs/2603.29979v1)
+ 1. [Universal YOCO for Efficient Depth Scaling](http://arxiv.org/abs/2604.01220v1)
+ 2. [$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](http://arxiv.org/abs/2604.01212v1)
+ 3. [LLM REgression with a Latent Iterative State Head](http://arxiv.org/abs/2604.01206v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
