@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-03**
+**Updated on: 2026-04-04**
 
- 1. [Universal YOCO for Efficient Depth Scaling](http://arxiv.org/abs/2604.01220v1)
- 2. [$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](http://arxiv.org/abs/2604.01212v1)
- 3. [LLM REgression with a Latent Iterative State Head](http://arxiv.org/abs/2604.01206v1)
+ 1. [Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning](http://arxiv.org/abs/2604.02322v1)
+ 2. [No Single Best Model for Diversity: Learning a Router for Sample Diversity](http://arxiv.org/abs/2604.02319v1)
+ 3. [De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules](http://arxiv.org/abs/2604.02276v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
