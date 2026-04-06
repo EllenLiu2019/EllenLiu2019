@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-05**
+**Updated on: 2026-04-06**
 
-No new papers found today.
+ 1. [Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning](http://arxiv.org/abs/2604.02322v1)
+ 2. [No Single Best Model for Diversity: Learning a Router for Sample Diversity](http://arxiv.org/abs/2604.02319v1)
+ 3. [De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules](http://arxiv.org/abs/2604.02276v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
