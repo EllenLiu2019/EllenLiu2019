@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-06**
+**Updated on: 2026-04-07**
 
- 1. [Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning](http://arxiv.org/abs/2604.02322v1)
- 2. [No Single Best Model for Diversity: Learning a Router for Sample Diversity](http://arxiv.org/abs/2604.02319v1)
- 3. [De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules](http://arxiv.org/abs/2604.02276v1)
+ 1. [BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence](http://arxiv.org/abs/2604.03216v1)
+ 2. [Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization](http://arxiv.org/abs/2604.03192v1)
+ 3. [PRISM: LLM-Guided Semantic Clustering for High-Precision Topics](http://arxiv.org/abs/2604.03180v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
