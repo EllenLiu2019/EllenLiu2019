@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-07**
+**Updated on: 2026-04-08**
 
- 1. [BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence](http://arxiv.org/abs/2604.03216v1)
- 2. [Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization](http://arxiv.org/abs/2604.03192v1)
- 3. [PRISM: LLM-Guided Semantic Clustering for High-Precision Topics](http://arxiv.org/abs/2604.03180v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
