@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-08**
+**Updated on: 2026-04-09**
 
-No new papers found today.
+ 1. [Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework](http://arxiv.org/abs/2604.06170v1)
+ 2. [In-Place Test-Time Training](http://arxiv.org/abs/2604.06169v1)
+ 3. [Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement](http://arxiv.org/abs/2604.06155v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
