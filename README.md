@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-09**
+**Updated on: 2026-04-10**
 
- 1. [Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework](http://arxiv.org/abs/2604.06170v1)
- 2. [In-Place Test-Time Training](http://arxiv.org/abs/2604.06169v1)
- 3. [Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement](http://arxiv.org/abs/2604.06155v1)
+ 1. [Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization](http://arxiv.org/abs/2604.07343v1)
+ 2. [Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images](http://arxiv.org/abs/2604.07338v1)
+ 3. [Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction](http://arxiv.org/abs/2604.07320v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
