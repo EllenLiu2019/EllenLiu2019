@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-12**
+**Updated on: 2026-04-13**
 
  1. [Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest](http://arxiv.org/abs/2604.08525v1)
  2. [What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal](http://arxiv.org/abs/2604.08524v1)
