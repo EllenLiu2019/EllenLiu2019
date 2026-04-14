@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-13**
+**Updated on: 2026-04-14**
 
- 1. [Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest](http://arxiv.org/abs/2604.08525v1)
- 2. [What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal](http://arxiv.org/abs/2604.08524v1)
- 3. [ClawBench: Can AI Agents Complete Everyday Online Tasks?](http://arxiv.org/abs/2604.08523v1)
+ 1. [Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism](http://arxiv.org/abs/2604.09544v1)
+ 2. [VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images](http://arxiv.org/abs/2604.09531v1)
+ 3. [VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning](http://arxiv.org/abs/2604.09529v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
