@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-14**
+**Updated on: 2026-04-15**
 
- 1. [Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism](http://arxiv.org/abs/2604.09544v1)
- 2. [VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images](http://arxiv.org/abs/2604.09531v1)
- 3. [VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning](http://arxiv.org/abs/2604.09529v1)
+ 1. [Detecting Safety Violations Across Many Agent Traces](http://arxiv.org/abs/2604.11806v1)
+ 2. [Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?](http://arxiv.org/abs/2604.11802v1)
+ 3. [CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation](http://arxiv.org/abs/2604.11801v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
