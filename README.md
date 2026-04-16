@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-15**
+**Updated on: 2026-04-16**
 
- 1. [Detecting Safety Violations Across Many Agent Traces](http://arxiv.org/abs/2604.11806v1)
- 2. [Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?](http://arxiv.org/abs/2604.11802v1)
- 3. [CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation](http://arxiv.org/abs/2604.11801v1)
+ 1. [SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis](http://arxiv.org/abs/2604.13035v1)
+ 2. [Toward Autonomous Long-Horizon Engineering for ML Research](http://arxiv.org/abs/2604.13018v1)
+ 3. [One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness](http://arxiv.org/abs/2604.13006v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
