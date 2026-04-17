@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-16**
+**Updated on: 2026-04-17**
 
- 1. [SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis](http://arxiv.org/abs/2604.13035v1)
- 2. [Toward Autonomous Long-Horizon Engineering for ML Research](http://arxiv.org/abs/2604.13018v1)
- 3. [One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness](http://arxiv.org/abs/2604.13006v1)
+ 1. [From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space](http://arxiv.org/abs/2604.14142v1)
+ 2. [From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs](http://arxiv.org/abs/2604.14137v1)
+ 3. [Rhetorical Questions in LLM Representations: A Linear Probing Study](http://arxiv.org/abs/2604.14128v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
