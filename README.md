@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-17**
+**Updated on: 2026-04-18**
 
- 1. [From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space](http://arxiv.org/abs/2604.14142v1)
- 2. [From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs](http://arxiv.org/abs/2604.14137v1)
- 3. [Rhetorical Questions in LLM Representations: A Linear Probing Study](http://arxiv.org/abs/2604.14128v1)
+ 1. [MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](http://arxiv.org/abs/2604.15309v1)
+ 2. [Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations](http://arxiv.org/abs/2604.15302v1)
+ 3. [CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas](http://arxiv.org/abs/2604.15267v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
