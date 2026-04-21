@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-20**
+**Updated on: 2026-04-21**
 
- 1. [MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](http://arxiv.org/abs/2604.15309v1)
- 2. [Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations](http://arxiv.org/abs/2604.15302v1)
- 3. [CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas](http://arxiv.org/abs/2604.15267v1)
+ 1. [Learning to Reason with Insight for Informal Theorem Proving](http://arxiv.org/abs/2604.16278v1)
+ 2. [No Universal Courtesy: A Cross-Linguistic, Multi-Model Study of Politeness Effects on LLMs Using the PLUM Corpus](http://arxiv.org/abs/2604.16275v1)
+ 3. [From Benchmarking to Reasoning: A Dual-Aspect, Large-Scale Evaluation of LLMs on Vietnamese Legal Text](http://arxiv.org/abs/2604.16270v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
