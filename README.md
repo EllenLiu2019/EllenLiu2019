@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-22**
+**Updated on: 2026-04-23**
 
- 1. [Dual Alignment Between Language Model Layers and Human Sentence Processing](http://arxiv.org/abs/2604.18563v1)
- 2. [GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](http://arxiv.org/abs/2604.18556v1)
- 3. [FUSE: Ensembling Verifiers with Zero Labeled Data](http://arxiv.org/abs/2604.18547v1)
+ 1. [Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views](http://arxiv.org/abs/2604.19716v1)
+ 2. [Epistemic orientation in parliamentary discourse is associated with deliberative democracy](http://arxiv.org/abs/2604.19699v1)
+ 3. [An Answer is just the Start: Related Insight Generation for Open-Ended Document-Grounded QA](http://arxiv.org/abs/2604.19685v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
