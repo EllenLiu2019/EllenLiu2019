@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-23**
+**Updated on: 2026-04-24**
 
- 1. [Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views](http://arxiv.org/abs/2604.19716v1)
- 2. [Epistemic orientation in parliamentary discourse is associated with deliberative democracy](http://arxiv.org/abs/2604.19699v1)
- 3. [An Answer is just the Start: Related Insight Generation for Open-Ended Document-Grounded QA](http://arxiv.org/abs/2604.19685v1)
+ 1. [Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](http://arxiv.org/abs/2604.20791v1)
+ 2. [Anchor-and-Resume Concession Under Dynamic Pricing for LLM-Augmented Freight Negotiation](http://arxiv.org/abs/2604.20732v1)
+ 3. [Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization](http://arxiv.org/abs/2604.20726v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
