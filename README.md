@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-24**
+**Updated on: 2026-04-25**
 
- 1. [Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](http://arxiv.org/abs/2604.20791v1)
- 2. [Anchor-and-Resume Concession Under Dynamic Pricing for LLM-Augmented Freight Negotiation](http://arxiv.org/abs/2604.20732v1)
- 3. [Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization](http://arxiv.org/abs/2604.20726v1)
+ 1. [Evaluation of Automatic Speech Recognition Using Generative Large Language Models](http://arxiv.org/abs/2604.21928v1)
+ 2. [MathDuels: Evaluating LLMs as Problem Posers and Solvers](http://arxiv.org/abs/2604.21916v1)
+ 3. [TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale](http://arxiv.org/abs/2604.21889v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
