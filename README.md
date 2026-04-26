@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-25**
+**Updated on: 2026-04-26**
 
  1. [Evaluation of Automatic Speech Recognition Using Generative Large Language Models](http://arxiv.org/abs/2604.21928v1)
  2. [MathDuels: Evaluating LLMs as Problem Posers and Solvers](http://arxiv.org/abs/2604.21916v1)
