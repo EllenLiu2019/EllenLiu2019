@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-27**
+**Updated on: 2026-04-28**
 
- 1. [Evaluation of Automatic Speech Recognition Using Generative Large Language Models](http://arxiv.org/abs/2604.21928v1)
- 2. [MathDuels: Evaluating LLMs as Problem Posers and Solvers](http://arxiv.org/abs/2604.21916v1)
- 3. [TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale](http://arxiv.org/abs/2604.21889v1)
+ 1. [How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](http://arxiv.org/abs/2604.22750v1)
+ 2. [Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities](http://arxiv.org/abs/2604.22749v1)
+ 3. [BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering](http://arxiv.org/abs/2604.22678v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
