@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-29**
+**Updated on: 2026-04-30**
 
- 1. [Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling](http://arxiv.org/abs/2604.24715v1)
- 2. [Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters](http://arxiv.org/abs/2604.24710v1)
- 3. [Green Shielding: A User-Centric Approach Towards Trustworthy AI](http://arxiv.org/abs/2604.24700v1)
+ 1. [Recursive Multi-Agent Systems](http://arxiv.org/abs/2604.25917v1)
+ 2. [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](http://arxiv.org/abs/2604.25914v1)
+ 3. [From Syntax to Emotion: A Mechanistic Analysis of Emotion Inference in LLMs](http://arxiv.org/abs/2604.25866v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
