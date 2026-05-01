@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-04-30**
+**Updated on: 2026-05-01**
 
- 1. [Recursive Multi-Agent Systems](http://arxiv.org/abs/2604.25917v1)
- 2. [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](http://arxiv.org/abs/2604.25914v1)
- 3. [From Syntax to Emotion: A Mechanistic Analysis of Emotion Inference in LLMs](http://arxiv.org/abs/2604.25866v1)
+ 1. [Select to Think: Unlocking SLM Potential with Local Sufficiency](http://arxiv.org/abs/2604.26940v1)
+ 2. [ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation](http://arxiv.org/abs/2604.26923v1)
+ 3. [ClawGym: A Scalable Framework for Building Effective Claw Agents](http://arxiv.org/abs/2604.26904v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
