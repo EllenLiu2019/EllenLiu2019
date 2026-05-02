@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-01**
+**Updated on: 2026-05-02**
 
- 1. [Select to Think: Unlocking SLM Potential with Local Sufficiency](http://arxiv.org/abs/2604.26940v1)
- 2. [ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation](http://arxiv.org/abs/2604.26923v1)
- 3. [ClawGym: A Scalable Framework for Building Effective Claw Agents](http://arxiv.org/abs/2604.26904v1)
+ 1. [Exploration Hacking: Can LLMs Learn to Resist RL Training?](http://arxiv.org/abs/2604.28182v1)
+ 2. [Synthetic Computers at Scale for Long-Horizon Productivity Simulation](http://arxiv.org/abs/2604.28181v1)
+ 3. [TopBench: A Benchmark for Implicit Prediction and Reasoning over Tabular Question Answering](http://arxiv.org/abs/2604.28076v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
