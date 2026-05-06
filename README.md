@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-05**
+**Updated on: 2026-05-06**
 
- 1. [When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models](http://arxiv.org/abs/2605.00817v1)
- 2. [Can Coding Agents Reproduce Findings in Computational Materials Science?](http://arxiv.org/abs/2605.00803v1)
- 3. [RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution](http://arxiv.org/abs/2605.00798v1)
+ 1. [SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](http://arxiv.org/abs/2605.02888v1)
+ 2. [FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents](http://arxiv.org/abs/2605.02815v1)
+ 3. [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](http://arxiv.org/abs/2605.02801v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
