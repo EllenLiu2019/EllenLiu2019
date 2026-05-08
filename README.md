@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-07**
+**Updated on: 2026-05-08**
 
- 1. [Safety and accuracy follow different scaling laws in clinical large language models](http://arxiv.org/abs/2605.04039v1)
- 2. [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](http://arxiv.org/abs/2605.04036v1)
- 3. [Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](http://arxiv.org/abs/2605.04018v1)
+ 1. [MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on MRI Physics and GE Scanner Operations Knowledge](http://arxiv.org/abs/2605.05175v1)
+ 2. [PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation](http://arxiv.org/abs/2605.05159v1)
+ 3. [Text Corpora as Concept Fields: Black-Box Hallucination and Novelty Measurement](http://arxiv.org/abs/2605.05103v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
