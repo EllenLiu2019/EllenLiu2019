@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-11**
+**Updated on: 2026-05-12**
 
- 1. [Verifier-Backed Hard Problem Generation for Mathematical Reasoning](http://arxiv.org/abs/2605.06660v1)
- 2. [When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels](http://arxiv.org/abs/2605.06652v1)
- 3. [Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients](http://arxiv.org/abs/2605.06650v1)
+ 1. [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](http://arxiv.org/abs/2605.08083v1)
+ 2. [The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents](http://arxiv.org/abs/2605.08060v1)
+ 3. [CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploration and Compute Budget Allocation](http://arxiv.org/abs/2605.08057v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
