@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-12**
+**Updated on: 2026-05-13**
 
- 1. [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](http://arxiv.org/abs/2605.08083v1)
- 2. [The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents](http://arxiv.org/abs/2605.08060v1)
- 3. [CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploration and Compute Budget Allocation](http://arxiv.org/abs/2605.08057v1)
+ 1. [Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning](http://arxiv.org/abs/2605.10923v1)
+ 2. [WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation](http://arxiv.org/abs/2605.10912v1)
+ 3. [RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards](http://arxiv.org/abs/2605.10899v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
