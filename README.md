@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-13**
+**Updated on: 2026-05-14**
 
- 1. [Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning](http://arxiv.org/abs/2605.10923v1)
- 2. [WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation](http://arxiv.org/abs/2605.10912v1)
- 3. [RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards](http://arxiv.org/abs/2605.10899v1)
+ 1. [LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues](http://arxiv.org/abs/2605.12493v1)
+ 2. [Task-Adaptive Embedding Refinement via Test-time LLM Guidance](http://arxiv.org/abs/2605.12487v1)
+ 3. [MEME: Multi-entity & Evolving Memory Evaluation](http://arxiv.org/abs/2605.12477v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
