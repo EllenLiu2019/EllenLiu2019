@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-14**
+**Updated on: 2026-05-15**
 
- 1. [LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues](http://arxiv.org/abs/2605.12493v1)
- 2. [Task-Adaptive Embedding Refinement via Test-time LLM Guidance](http://arxiv.org/abs/2605.12487v1)
- 3. [MEME: Multi-entity & Evolving Memory Evaluation](http://arxiv.org/abs/2605.12477v1)
+ 1. [WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](http://arxiv.org/abs/2605.13846v1)
+ 2. [EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](http://arxiv.org/abs/2605.13841v1)
+ 3. [Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights](http://arxiv.org/abs/2605.13839v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
