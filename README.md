@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-15**
+**Updated on: 2026-05-16**
 
- 1. [WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](http://arxiv.org/abs/2605.13846v1)
- 2. [EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](http://arxiv.org/abs/2605.13841v1)
- 3. [Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights](http://arxiv.org/abs/2605.13839v1)
+ 1. [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](http://arxiv.org/abs/2605.15198v1)
+ 2. [FutureSim: Replaying World Events to Evaluate Adaptive Agents](http://arxiv.org/abs/2605.15188v1)
+ 3. [Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](http://arxiv.org/abs/2605.15184v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
