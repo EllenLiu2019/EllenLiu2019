@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-18**
+**Updated on: 2026-05-19**
 
- 1. [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](http://arxiv.org/abs/2605.15198v1)
- 2. [FutureSim: Replaying World Events to Evaluate Adaptive Agents](http://arxiv.org/abs/2605.15188v1)
- 3. [Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](http://arxiv.org/abs/2605.15184v1)
+ 1. [A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation](http://arxiv.org/abs/2605.16250v1)
+ 2. [AI-Mediated Communication Can Steer Collective Opinion](http://arxiv.org/abs/2605.16245v1)
+ 3. [FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast](http://arxiv.org/abs/2605.16233v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
