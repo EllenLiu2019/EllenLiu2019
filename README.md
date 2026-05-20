@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-19**
+**Updated on: 2026-05-20**
 
- 1. [A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation](http://arxiv.org/abs/2605.16250v1)
- 2. [AI-Mediated Communication Can Steer Collective Opinion](http://arxiv.org/abs/2605.16245v1)
- 3. [FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast](http://arxiv.org/abs/2605.16233v1)
+ 1. [DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention](http://arxiv.org/abs/2605.18753v1)
+ 2. [Code as Agent Harness](http://arxiv.org/abs/2605.18747v1)
+ 3. [ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop](http://arxiv.org/abs/2605.18746v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
