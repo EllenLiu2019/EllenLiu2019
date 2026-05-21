@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-20**
+**Updated on: 2026-05-21**
 
- 1. [DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention](http://arxiv.org/abs/2605.18753v1)
- 2. [Code as Agent Harness](http://arxiv.org/abs/2605.18747v1)
- 3. [ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop](http://arxiv.org/abs/2605.18746v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
