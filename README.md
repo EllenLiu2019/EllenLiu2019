@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-21**
+**Updated on: 2026-05-22**
 
-No new papers found today.
+ 1. [You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories](http://arxiv.org/abs/2605.21468v1)
+ 2. [Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution](http://arxiv.org/abs/2605.21465v1)
+ 3. [Mem-$π$: Adaptive Memory through Learning When and What to Generate](http://arxiv.org/abs/2605.21463v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
