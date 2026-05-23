@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-22**
+**Updated on: 2026-05-23**
 
- 1. [You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories](http://arxiv.org/abs/2605.21468v1)
- 2. [Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution](http://arxiv.org/abs/2605.21465v1)
- 3. [Mem-$π$: Adaptive Memory through Learning When and What to Generate](http://arxiv.org/abs/2605.21463v1)
+ 1. [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](http://arxiv.org/abs/2605.22817v1)
+ 2. [Reducing Political Manipulation with Consistency Training](http://arxiv.org/abs/2605.22771v1)
+ 3. [Understanding Data Temporality Impact on Large Language Models Pre-training](http://arxiv.org/abs/2605.22769v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
