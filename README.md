@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-24**
+**Updated on: 2026-05-25**
 
  1. [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](http://arxiv.org/abs/2605.22817v1)
  2. [Reducing Political Manipulation with Consistency Training](http://arxiv.org/abs/2605.22771v1)
