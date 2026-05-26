@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-25**
+**Updated on: 2026-05-26**
 
- 1. [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](http://arxiv.org/abs/2605.22817v1)
- 2. [Reducing Political Manipulation with Consistency Training](http://arxiv.org/abs/2605.22771v1)
- 3. [Understanding Data Temporality Impact on Large Language Models Pre-training](http://arxiv.org/abs/2605.22769v1)
+ 1. [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](http://arxiv.org/abs/2605.23904v1)
+ 2. [Strong Teacher Not Needed? On Distillation in LLM Pretraining](http://arxiv.org/abs/2605.23857v1)
+ 3. [Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](http://arxiv.org/abs/2605.23826v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
