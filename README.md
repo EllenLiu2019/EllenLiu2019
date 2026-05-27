@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-26**
+**Updated on: 2026-05-27**
 
- 1. [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](http://arxiv.org/abs/2605.23904v1)
- 2. [Strong Teacher Not Needed? On Distillation in LLM Pretraining](http://arxiv.org/abs/2605.23857v1)
- 3. [Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval](http://arxiv.org/abs/2605.23826v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
