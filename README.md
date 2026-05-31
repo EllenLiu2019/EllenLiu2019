@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-30**
+**Updated on: 2026-05-31**
 
-No new papers found today.
+ 1. [LLMSurgeon: Diagnosing Data Mixture of Large Language Models](http://arxiv.org/abs/2605.30348v1)
+ 2. [SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations](http://arxiv.org/abs/2605.30345v1)
+ 3. [Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents](http://arxiv.org/abs/2605.30335v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
