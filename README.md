@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-05-31**
+**Updated on: 2026-06-01**
 
  1. [LLMSurgeon: Diagnosing Data Mixture of Large Language Models](http://arxiv.org/abs/2605.30348v1)
  2. [SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations](http://arxiv.org/abs/2605.30345v1)
