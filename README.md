@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-02**
+**Updated on: 2026-06-03**
 
-No new papers found today.
+ 1. [ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents](http://arxiv.org/abs/2606.02568v1)
+ 2. [From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression](http://arxiv.org/abs/2606.02559v1)
+ 3. [HERO'S JOURNEY: Testing Complex Rule Induction with Text Games](http://arxiv.org/abs/2606.02556v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
