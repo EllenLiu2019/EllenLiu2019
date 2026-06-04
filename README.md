@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-03**
+**Updated on: 2026-06-04**
 
- 1. [ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents](http://arxiv.org/abs/2606.02568v1)
- 2. [From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression](http://arxiv.org/abs/2606.02559v1)
- 3. [HERO'S JOURNEY: Testing Complex Rule Induction with Text Games](http://arxiv.org/abs/2606.02556v1)
+ 1. [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](http://arxiv.org/abs/2606.03980v1)
+ 2. [Quantifying Faithful Confidence Expression in Large Reasoning Models](http://arxiv.org/abs/2606.03969v1)
+ 3. [AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task](http://arxiv.org/abs/2606.03967v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
