@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-04**
+**Updated on: 2026-06-05**
 
- 1. [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](http://arxiv.org/abs/2606.03980v1)
- 2. [Quantifying Faithful Confidence Expression in Large Reasoning Models](http://arxiv.org/abs/2606.03969v1)
- 3. [AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task](http://arxiv.org/abs/2606.03967v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
