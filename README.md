@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-08**
+**Updated on: 2026-06-09**
 
- 1. [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](http://arxiv.org/abs/2606.06492v1)
- 2. [Self-Augmenting Retrieval for Diffusion Language Models](http://arxiv.org/abs/2606.06474v1)
- 3. [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](http://arxiv.org/abs/2606.06473v1)
+ 1. [How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v1)
+ 2. [Agentopia: Long-Term Life Simulation and Learning in Agent Societies](http://arxiv.org/abs/2606.07513v1)
+ 3. [MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](http://arxiv.org/abs/2606.07512v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
