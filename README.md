@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-10**
+**Updated on: 2026-06-11**
 
- 1. [SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation](http://arxiv.org/abs/2606.09774v1)
- 2. [iOSWorld: A Benchmark for Personally Intelligent Phone Agents](http://arxiv.org/abs/2606.09764v1)
- 3. [Collaborative Human-Agent Protocol (CHAP)](http://arxiv.org/abs/2606.09751v1)
+ 1. [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](http://arxiv.org/abs/2606.11176v1)
+ 2. [Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models](http://arxiv.org/abs/2606.11167v1)
+ 3. [Provenance-Grounded Gating and Adaptive Recovery in Synthetic Post-Training Data Curation](http://arxiv.org/abs/2606.11127v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
