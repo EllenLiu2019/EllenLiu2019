@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-11**
+**Updated on: 2026-06-12**
 
- 1. [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](http://arxiv.org/abs/2606.11176v1)
- 2. [Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models](http://arxiv.org/abs/2606.11167v1)
- 3. [Provenance-Grounded Gating and Adaptive Recovery in Synthetic Post-Training Data Curation](http://arxiv.org/abs/2606.11127v1)
+ 1. [Context-Driven Incremental Compression for Multi-Turn Dialogue Generation](http://arxiv.org/abs/2606.12411v1)
+ 2. [System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](http://arxiv.org/abs/2606.12392v1)
+ 3. [Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs](http://arxiv.org/abs/2606.12385v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
