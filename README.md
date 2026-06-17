@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-16**
+**Updated on: 2026-06-17**
 
- 1. [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](http://arxiv.org/abs/2606.14695v1)
- 2. [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1)
- 3. [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](http://arxiv.org/abs/2606.14672v1)
+ 1. [Context-Aware RL for Agentic and Multimodal LLMs](http://arxiv.org/abs/2606.17053v1)
+ 2. [Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio](http://arxiv.org/abs/2606.17041v1)
+ 3. [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
