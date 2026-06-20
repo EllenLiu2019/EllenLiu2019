@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-19**
+**Updated on: 2026-06-20**
 
- 1. [Native Active Perception as Reasoning for Omni-Modal Understanding](http://arxiv.org/abs/2606.19341v1)
- 2. [Learning User Simulators with Turing Rewards](http://arxiv.org/abs/2606.19336v1)
- 3. [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](http://arxiv.org/abs/2606.19308v1)
+ 1. [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](http://arxiv.org/abs/2606.20529v1)
+ 2. [Beyond Global Replanning: Hierarchical Recovery for Cross-Device Agent Systems](http://arxiv.org/abs/2606.20487v1)
+ 3. [Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users](http://arxiv.org/abs/2606.20482v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
