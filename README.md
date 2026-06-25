@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-24**
+**Updated on: 2026-06-25**
 
- 1. [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](http://arxiv.org/abs/2606.23687v1)
- 2. [Can LLMs Reliably Self-Report Adversarial Prefills, and How?](http://arxiv.org/abs/2606.23671v1)
- 3. [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](http://arxiv.org/abs/2606.23654v1)
+ 1. [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](http://arxiv.org/abs/2606.24820v1)
+ 2. [Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce](http://arxiv.org/abs/2606.24783v1)
+ 3. [Are We Ready For An Agent-Native Memory System?](http://arxiv.org/abs/2606.24775v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
