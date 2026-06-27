@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-26**
+**Updated on: 2026-06-27**
 
- 1. [When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance](http://arxiv.org/abs/2606.26062v1)
- 2. [How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](http://arxiv.org/abs/2606.26041v1)
- 3. [AI translation of literary texts is "fine", but readers still prefer human translations](http://arxiv.org/abs/2606.26040v1)
+ 1. [Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline](http://arxiv.org/abs/2606.27347v1)
+ 2. [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](http://arxiv.org/abs/2606.27330v1)
+ 3. [LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank](http://arxiv.org/abs/2606.27316v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
