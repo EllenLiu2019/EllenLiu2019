@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-29**
+**Updated on: 2026-06-30**
 
- 1. [Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline](http://arxiv.org/abs/2606.27347v1)
- 2. [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](http://arxiv.org/abs/2606.27330v1)
- 3. [LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank](http://arxiv.org/abs/2606.27316v1)
+ 1. [Towards Automating Scientific Review with Google's Paper Assistant Tool](http://arxiv.org/abs/2606.28277v1)
+ 2. [HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech](http://arxiv.org/abs/2606.28249v1)
+ 3. [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](http://arxiv.org/abs/2606.28186v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
