@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-06-30**
+**Updated on: 2026-07-01**
 
- 1. [Towards Automating Scientific Review with Google's Paper Assistant Tool](http://arxiv.org/abs/2606.28277v1)
- 2. [HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech](http://arxiv.org/abs/2606.28249v1)
- 3. [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](http://arxiv.org/abs/2606.28186v1)
+ 1. [Self-Evolving World Models for LLM Agent Planning](http://arxiv.org/abs/2606.30639v1)
+ 2. [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](http://arxiv.org/abs/2606.30616v1)
+ 3. [Uncertainty-Aware Generation and Decision-Making Under Ambiguity](http://arxiv.org/abs/2606.30578v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
