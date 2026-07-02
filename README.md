@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-01**
+**Updated on: 2026-07-02**
 
- 1. [Self-Evolving World Models for LLM Agent Planning](http://arxiv.org/abs/2606.30639v1)
- 2. [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](http://arxiv.org/abs/2606.30616v1)
- 3. [Uncertainty-Aware Generation and Decision-Making Under Ambiguity](http://arxiv.org/abs/2606.30578v1)
+ 1. [QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](http://arxiv.org/abs/2606.32034v1)
+ 2. [Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](http://arxiv.org/abs/2606.32032v1)
+ 3. [When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](http://arxiv.org/abs/2606.32029v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
