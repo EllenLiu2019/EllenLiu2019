@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-07**
+**Updated on: 2026-07-08**
 
-No new papers found today.
+ 1. [From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b](http://arxiv.org/abs/2607.06452v1)
+ 2. [Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory](http://arxiv.org/abs/2607.06447v1)
+ 3. [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](http://arxiv.org/abs/2607.06411v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
