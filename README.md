@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-08**
+**Updated on: 2026-07-09**
 
- 1. [From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b](http://arxiv.org/abs/2607.06452v1)
- 2. [Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory](http://arxiv.org/abs/2607.06447v1)
- 3. [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](http://arxiv.org/abs/2607.06411v1)
+ 1. [Co-LMLM: Continuous-Query Limited Memory Language Models](http://arxiv.org/abs/2607.07707v1)
+ 2. [From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization](http://arxiv.org/abs/2607.07702v1)
+ 3. [Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning](http://arxiv.org/abs/2607.07690v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
