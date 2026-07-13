@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-12**
+**Updated on: 2026-07-13**
 
- 1. [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](http://arxiv.org/abs/2607.08768v1)
- 2. [Validity of LLMs as data annotators: AMALIA on authority](http://arxiv.org/abs/2607.08731v1)
- 3. [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](http://arxiv.org/abs/2607.08716v1)
+ 1. [Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026](http://arxiv.org/abs/2607.09623v1)
+ 2. [Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](http://arxiv.org/abs/2607.09600v1)
+ 3. [Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach](http://arxiv.org/abs/2607.09576v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
