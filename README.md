@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-13**
+**Updated on: 2026-07-14**
 
- 1. [Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026](http://arxiv.org/abs/2607.09623v1)
- 2. [Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](http://arxiv.org/abs/2607.09600v1)
- 3. [Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach](http://arxiv.org/abs/2607.09576v1)
+ 1. [LOGOS: A Living Logic for AI Agent Teams That Evolve With Humans](http://arxiv.org/abs/2607.10878v1)
+ 2. [Quantifying the Sources of Instability in LLM-Based Stance Analysis of Public Discourse](http://arxiv.org/abs/2607.10846v1)
+ 3. [Route, Communicate, and Reason: Gated Routing and Adaptive Depth for Efficient Multi-Agent Reasoning](http://arxiv.org/abs/2607.10836v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
