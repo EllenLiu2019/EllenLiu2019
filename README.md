@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-15**
+**Updated on: 2026-07-16**
 
- 1. [MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations](http://arxiv.org/abs/2607.12893v1)
- 2. [LLM Judges Can Be Too Generous When There Is No Reference Answer](http://arxiv.org/abs/2607.12885v1)
- 3. [Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations](http://arxiv.org/abs/2607.12884v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
