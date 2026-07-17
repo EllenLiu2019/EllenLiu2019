@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-16**
+**Updated on: 2026-07-17**
 
-No new papers found today.
+ 1. [On-Policy Delta Distillation](http://arxiv.org/abs/2607.15161v1)
+ 2. [Grokipedia vs Wikipedia: An LLM-Based Audit of Political Neutrality along Ideologies](http://arxiv.org/abs/2607.15146v1)
+ 3. [Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents](http://arxiv.org/abs/2607.15095v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
