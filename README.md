@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-27**
+**Updated on: 2026-07-28**
 
-No new papers found today.
+ 1. [Zing: Social Mind for LLMs](http://arxiv.org/abs/2607.23740v1)
+ 2. [EmoTrace: An Emotion Trajectory-Centered Framework for Psychological Support Dialogue Generation](http://arxiv.org/abs/2607.23648v1)
+ 3. [Where Is the Cost of Third-Party API Routers in Agentic Software Development?](http://arxiv.org/abs/2607.23624v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
