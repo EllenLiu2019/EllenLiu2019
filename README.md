@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-07-29**
+**Updated on: 2026-07-30**
 
-No new papers found today.
+ 1. [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](http://arxiv.org/abs/2607.27081v1)
+ 2. [Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data](http://arxiv.org/abs/2607.27056v1)
+ 3. [Evaluating Regional Bias in LLMs From Abstract Stereotype to Concrete Social Decision-Making](http://arxiv.org/abs/2607.27022v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
