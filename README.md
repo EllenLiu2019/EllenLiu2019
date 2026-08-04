@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-08-03**
+**Updated on: 2026-08-04**
 
-No new papers found today.
+ 1. [Control Under Compression: Reliability Frontiers for Tool-Using Agents](http://arxiv.org/abs/2608.01056v1)
+ 2. [Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale](http://arxiv.org/abs/2608.01050v1)
+ 3. [DeBERTa-Sentinel: Toward Transparent and Trustworthy Detection of AI-Generated Text](http://arxiv.org/abs/2608.01046v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
