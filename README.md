@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-08-04**
+**Updated on: 2026-08-05**
 
- 1. [Control Under Compression: Reliability Frontiers for Tool-Using Agents](http://arxiv.org/abs/2608.01056v1)
- 2. [Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale](http://arxiv.org/abs/2608.01050v1)
- 3. [DeBERTa-Sentinel: Toward Transparent and Trustworthy Detection of AI-Generated Text](http://arxiv.org/abs/2608.01046v1)
+ 1. [An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures](http://arxiv.org/abs/2608.03735v1)
+ 2. [GPTKB 2.0: Direct Construction of Disambiguated Knowledge Bases from Large Language Models](http://arxiv.org/abs/2608.03729v1)
+ 3. [When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Coupling Diagnostic for Machine Collectives](http://arxiv.org/abs/2608.03722v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
