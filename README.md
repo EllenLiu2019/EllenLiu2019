@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-08-05**
+**Updated on: 2026-08-06**
 
- 1. [An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures](http://arxiv.org/abs/2608.03735v1)
- 2. [GPTKB 2.0: Direct Construction of Disambiguated Knowledge Bases from Large Language Models](http://arxiv.org/abs/2608.03729v1)
- 3. [When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Coupling Diagnostic for Machine Collectives](http://arxiv.org/abs/2608.03722v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
