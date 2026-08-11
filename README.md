@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-08-10**
+**Updated on: 2026-08-11**
 
- 1. [The Bitter Lesson of Tool Calling](http://arxiv.org/abs/2608.06370v1)
- 2. [AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games](http://arxiv.org/abs/2608.06362v1)
- 3. [CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks](http://arxiv.org/abs/2608.06352v1)
+ 1. [CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](http://arxiv.org/abs/2608.07460v1)
+ 2. [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](http://arxiv.org/abs/2608.07458v1)
+ 3. [SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent](http://arxiv.org/abs/2608.07449v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
