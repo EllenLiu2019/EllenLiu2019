@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-08-20**
+**Updated on: 2026-08-21**
 
- 1. [Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation](http://arxiv.org/abs/2608.18072v1)
- 2. [On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification](http://arxiv.org/abs/2608.18066v1)
- 3. [Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation](http://arxiv.org/abs/2608.18041v1)
+ 1. [SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1)
+ 2. [When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation](http://arxiv.org/abs/2608.19083v1)
+ 3. [What is Missing from AI Post-Training AI: An Empirical Analysis](http://arxiv.org/abs/2608.19072v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
