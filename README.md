@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-08-25**
+**Updated on: 2026-08-26**
 
- 1. [Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy](http://arxiv.org/abs/2608.21325v1)
- 2. [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering](http://arxiv.org/abs/2608.21252v1)
- 3. [Benchmarking Patent Drafting from Inventor-Style Disclosures](http://arxiv.org/abs/2608.21249v1)
+ 1. [SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?](http://arxiv.org/abs/2608.23564v1)
+ 2. [Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552v1)
+ 3. [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
