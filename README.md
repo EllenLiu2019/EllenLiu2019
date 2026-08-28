@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-08-27**
+**Updated on: 2026-08-28**
 
- 1. [PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](http://arxiv.org/abs/2608.26091v1)
- 2. [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1)
- 3. [Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems](http://arxiv.org/abs/2608.26036v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
