@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-01**
+**Updated on: 2026-09-02**
 
- 1. [SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?](http://arxiv.org/abs/2608.30661v1)
- 2. [Geometry of Divergence: Tracking Hidden-State Trajectories for Adaptive Multi-Turn Reasoning](http://arxiv.org/abs/2608.30650v1)
- 3. [BiG-SURE - Bipartite Graph for Semantic Uncertainty and Reliability Estimation of LLMs](http://arxiv.org/abs/2608.30646v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
