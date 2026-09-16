@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-15**
+**Updated on: 2026-09-16**
 
-No new papers found today.
+ 1. [ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1)
+ 2. [When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](http://arxiv.org/abs/2609.17516v1)
+ 3. [What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](http://arxiv.org/abs/2609.17515v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
