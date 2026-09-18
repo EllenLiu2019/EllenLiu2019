@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-17**
+**Updated on: 2026-09-18**
 
- 1. [A Zeroth-Order Paradigm for LLM Preference Alignment](http://arxiv.org/abs/2609.19144v1)
- 2. [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](http://arxiv.org/abs/2609.19134v1)
- 3. [Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models](http://arxiv.org/abs/2609.19113v1)
+ 1. [Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)
+ 2. [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1)
+ 3. [RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](http://arxiv.org/abs/2609.20784v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
