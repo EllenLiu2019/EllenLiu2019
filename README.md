@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-18**
+**Updated on: 2026-09-19**
 
  1. [Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)
  2. [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1)
