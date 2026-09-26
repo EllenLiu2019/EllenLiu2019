@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-25**
+**Updated on: 2026-09-26**
 
  1. [Agentic Detection of Online Conspiracies](http://arxiv.org/abs/2609.30250v1)
  2. [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](http://arxiv.org/abs/2609.30238v1)
