@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-26**
+**Updated on: 2026-09-27**
 
- 1. [Agentic Detection of Online Conspiracies](http://arxiv.org/abs/2609.30250v1)
- 2. [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](http://arxiv.org/abs/2609.30238v1)
- 3. [ARGUS: Role-Aware Event Knowledge Graphs for U.S. Employment-Discrimination Complaints](http://arxiv.org/abs/2609.30184v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
