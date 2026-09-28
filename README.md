@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-27**
+**Updated on: 2026-09-28**
 
-No new papers found today.
+ 1. [User Model Extraction via Belief Self-Distillation](http://arxiv.org/abs/2609.31603v1)
+ 2. [Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer](http://arxiv.org/abs/2609.31587v1)
+ 3. [Strategically Diverse Sampling for Self-Training](http://arxiv.org/abs/2609.31571v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
