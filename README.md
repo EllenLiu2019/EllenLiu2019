@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-28**
+**Updated on: 2026-09-29**
 
- 1. [User Model Extraction via Belief Self-Distillation](http://arxiv.org/abs/2609.31603v1)
- 2. [Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer](http://arxiv.org/abs/2609.31587v1)
- 3. [Strategically Diverse Sampling for Self-Training](http://arxiv.org/abs/2609.31571v1)
+ 1. [A mechanistic study of language model introspection](http://arxiv.org/abs/2609.35108v1)
+ 2. [When Confidence Rises Too Early: Detecting Shortcut Reasoning via Premature Answer Commitment](http://arxiv.org/abs/2609.35074v1)
+ 3. [Echoes of Deeds: Moral History Can Shape and Steer LLM Behavioral Choices](http://arxiv.org/abs/2609.35070v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
