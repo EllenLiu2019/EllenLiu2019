@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-09-29**
+**Updated on: 2026-09-30**
 
- 1. [A mechanistic study of language model introspection](http://arxiv.org/abs/2609.35108v1)
- 2. [When Confidence Rises Too Early: Detecting Shortcut Reasoning via Premature Answer Commitment](http://arxiv.org/abs/2609.35074v1)
- 3. [Echoes of Deeds: Moral History Can Shape and Steer LLM Behavioral Choices](http://arxiv.org/abs/2609.35070v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
