@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-10-05**
+**Updated on: 2026-10-06**
 
-No new papers found today.
+ 1. [Recursive Video In-Context Learning for Agentic Robot](http://arxiv.org/abs/2610.06843v1)
+ 2. [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](http://arxiv.org/abs/2610.06830v1)
+ 3. [CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](http://arxiv.org/abs/2610.06829v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
