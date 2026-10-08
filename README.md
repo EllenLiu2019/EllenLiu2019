@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-10-07**
+**Updated on: 2026-10-08**
 
- 1. [IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](http://arxiv.org/abs/2610.08781v1)
- 2. [Sherpa: Teaching LLMs to Teach Adaptively](http://arxiv.org/abs/2610.08778v1)
- 3. [AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](http://arxiv.org/abs/2610.08773v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
