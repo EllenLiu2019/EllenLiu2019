@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-10-09**
+**Updated on: 2026-10-10**
 
  1. [WOVEN: Weaving Visual World Modeling into Multimodal LLMs](http://arxiv.org/abs/2610.12417v1)
  2. [Predicting Alignment Generalization with Value Representations](http://arxiv.org/abs/2610.12410v1)
