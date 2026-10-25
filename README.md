@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-10-24**
+**Updated on: 2026-10-25**
 
  1. [Cost-Aware Abstention for LLM-Based IT Ticket Classification](http://arxiv.org/abs/2610.31657v1)
  2. [Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2](http://arxiv.org/abs/2610.31636v1)
