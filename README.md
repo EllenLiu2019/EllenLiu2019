@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-10-25**
+**Updated on: 2026-10-26**
 
- 1. [Cost-Aware Abstention for LLM-Based IT Ticket Classification](http://arxiv.org/abs/2610.31657v1)
- 2. [Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2](http://arxiv.org/abs/2610.31636v1)
- 3. [How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions](http://arxiv.org/abs/2610.31606v1)
+ 1. [Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox](http://arxiv.org/abs/2610.32955v1)
+ 2. [Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations](http://arxiv.org/abs/2610.32874v1)
+ 3. [J-Comm: Jacobian-Guided Latent Communication between LLM Agents](http://arxiv.org/abs/2610.32871v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
