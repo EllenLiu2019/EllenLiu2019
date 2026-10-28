@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-10-27**
+**Updated on: 2026-10-28**
 
- 1. [Useful Diversity or Hallucinated Variety? Persona-Conditioned Synthetic Query Generation for E-Commerce Search](http://arxiv.org/abs/2610.35102v1)
- 2. [RAGing Against Misogyny: Improving Implicit Misogyny Explanations](http://arxiv.org/abs/2610.35094v1)
- 3. [Ask Before You Answer: A Question-Driven Evidence Reasoning Architecture (QERA) for In-Context Learning](http://arxiv.org/abs/2610.35083v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
