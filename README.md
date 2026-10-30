@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-10-29**
+**Updated on: 2026-10-30**
 
- 1. [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)
- 2. [GEPA-Curator: Curated Learning for Self Improving Agents](http://arxiv.org/abs/2610.37651v1)
- 3. [Can LLMs Uncover Hidden Physical Laws through Free Exploration?](http://arxiv.org/abs/2610.37649v1)
+ 1. [Integrating Heterogeneous Echocardiography AI Outputs in Language Space: Learnable Late Fusion with a Supervised LLM](http://arxiv.org/abs/2610.39464v1)
+ 2. [ARBITRA: Robust Document-Level ATT&CK Extraction via Multi-Expert Argumentation](http://arxiv.org/abs/2610.39433v1)
+ 3. [Well-Specified and Well-Tested? Assessing SWE-bench-Style Datasets with a Self-Evolving Agent](http://arxiv.org/abs/2610.39417v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
