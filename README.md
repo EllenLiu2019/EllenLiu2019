@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-10-31**
+**Updated on: 2026-11-01**
 
  1. [Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1)
  2. [ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](http://arxiv.org/abs/2610.40627v1)
