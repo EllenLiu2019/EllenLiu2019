@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-01**
+**Updated on: 2026-11-02**
 
- 1. [Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1)
- 2. [ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](http://arxiv.org/abs/2610.40627v1)
- 3. [TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races](http://arxiv.org/abs/2610.40613v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
