@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-05**
+**Updated on: 2026-11-06**
 
- 1. [A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)
- 2. [SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification](http://arxiv.org/abs/2611.06876v1)
- 3. [LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis](http://arxiv.org/abs/2611.06856v1)
+ 1. [MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue](http://arxiv.org/abs/2611.08433v1)
+ 2. [Cultural Adaptation within Repeated Social Interactions](http://arxiv.org/abs/2611.08334v1)
+ 3. [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](http://arxiv.org/abs/2611.08315v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
