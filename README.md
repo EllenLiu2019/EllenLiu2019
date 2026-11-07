@@ -52,7 +52,7 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-06**
+**Updated on: 2026-11-07**
 
  1. [MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue](http://arxiv.org/abs/2611.08433v1)
  2. [Cultural Adaptation within Repeated Social Interactions](http://arxiv.org/abs/2611.08334v1)
