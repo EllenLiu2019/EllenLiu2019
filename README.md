@@ -52,11 +52,9 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-07**
+**Updated on: 2026-11-08**
 
- 1. [MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue](http://arxiv.org/abs/2611.08433v1)
- 2. [Cultural Adaptation within Repeated Social Interactions](http://arxiv.org/abs/2611.08334v1)
- 3. [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](http://arxiv.org/abs/2611.08315v1)
+No new papers found today.
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
