@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-09**
+**Updated on: 2026-11-10**
 
-No new papers found today.
+ 1. [SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks](http://arxiv.org/abs/2611.12041v1)
+ 2. [Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization](http://arxiv.org/abs/2611.11995v1)
+ 3. [EmoHarness: Boosting Multimodal Emotion Understanding with Meta-Harness Evolving](http://arxiv.org/abs/2611.11994v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
