@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-10**
+**Updated on: 2026-11-11**
 
- 1. [SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks](http://arxiv.org/abs/2611.12041v1)
- 2. [Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization](http://arxiv.org/abs/2611.11995v1)
- 3. [EmoHarness: Boosting Multimodal Emotion Understanding with Meta-Harness Evolving](http://arxiv.org/abs/2611.11994v1)
+ 1. [HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios](http://arxiv.org/abs/2611.14059v1)
+ 2. [Program-Aided Patchable Skill Evolution](http://arxiv.org/abs/2611.14019v1)
+ 3. [Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation](http://arxiv.org/abs/2611.14009v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
