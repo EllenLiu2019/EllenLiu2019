@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-11**
+**Updated on: 2026-11-12**
 
- 1. [HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios](http://arxiv.org/abs/2611.14059v1)
- 2. [Program-Aided Patchable Skill Evolution](http://arxiv.org/abs/2611.14019v1)
- 3. [Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation](http://arxiv.org/abs/2611.14009v1)
+ 1. [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)
+ 2. [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents](http://arxiv.org/abs/2611.14493v1)
+ 3. [Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation](http://arxiv.org/abs/2611.14480v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
