@@ -52,9 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-16**
+**Updated on: 2026-11-17**
 
-No new papers found today.
+ 1. [Instant Weight-Space Consolidation for Long-Term Memory in LLMs](http://arxiv.org/abs/2611.20759v1)
+ 2. [GPRM: Global Perspective Process Reward Model](http://arxiv.org/abs/2611.20755v1)
+ 3. [Can LLMs Give Good Product Advice? A Framework for Diagnosing Failures](http://arxiv.org/abs/2611.20734v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
