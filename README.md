@@ -52,11 +52,11 @@ graph TD
 
 ## 📑 Daily ArXiv Summary
 <!-- DAILY_ARXIV_SUMMARY_START -->
-**Updated on: 2026-11-25**
+**Updated on: 2026-11-26**
 
- 1. [DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](http://arxiv.org/abs/2611.33153v1)
- 2. [CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](http://arxiv.org/abs/2611.33148v1)
- 3. [SAG-Mem-1.0 Technical Report](http://arxiv.org/abs/2611.33124v1)
+ 1. [Diverse Alternative Reasoning Traces for Hard Math Problems](http://arxiv.org/abs/2611.34928v1)
+ 2. [$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents](http://arxiv.org/abs/2611.34920v1)
+ 3. [DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents](http://arxiv.org/abs/2611.34852v1)
 <!-- DAILY_ARXIV_SUMMARY_END -->
 
 ## 🌐 Connect
